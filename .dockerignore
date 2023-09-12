@@ -1,7 +1,9 @@
 ./dist/dev
 ./src
+.vscode
 
 ReadMe.md
 
 .gitignore
 .git
+ 

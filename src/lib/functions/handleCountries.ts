@@ -1,6 +1,5 @@
 import Country from '../models/Country';
-import { Country as CountryType } from '../types';
-import { CountriesResponse, CountryResponse } from '../types';
+import { Country as CountryType, CountriesResponse, CountryResponse } from '../types';
 
 const getAllCountries = async () => {
   var response: CountriesResponse = {
@@ -40,28 +39,17 @@ const getCountryByValue = async (value: string) => {
   }
 };
 
-const createCountry: (country: CountryType) => Promise<any> = async ({
-  value,
-  label,
-  code,
-  dialCode,
-  continent,
-  flagIcon,
-  capitol,
-  currency,
-  timeZones,
-}) => {
+const createCountry = async (countryData: CountryType) => {
   var response: CountryResponse = {
     error: true,
     message: '',
     country: null,
   };
 
-  if (!value || !label || !code || !dialCode || !continent || !flagIcon || !capitol || !currency || !timeZones)
-    return { ...response, message: 'All fields are required' };
+  if (!countryData) return { ...response, message: 'All fields are required' };
 
   try {
-    const country = await Country.create({ value, label, code, dialCode, continent, flagIcon, capitol, currency, timeZones });
+    const country = await Country.create(countryData);
 
     if (!country) return { ...response, message: 'No country created' };
 
