@@ -5,15 +5,15 @@ FROM node:14-alpine
 WORKDIR /app
 
 # Copy package.json and yarn.lock to the container
-COPY package*.json yarn.lock .env.local ./
+COPY package*.json yarn.lock ./
 
 # Install dependencies
 RUN yarn install --frozen-lockfile --production
 
-# Copy the rest of the application code to the container
+# Copy the rest of the application distribution code to the container
 COPY ./dist ./dist
 
-# Expose the desired port (replace 3000 with your app's port if necessary)
+# Expose the desired port
 EXPOSE 5000
 
 # Start the app

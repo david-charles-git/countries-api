@@ -3,9 +3,4 @@
     "node_modules": true,
     "dist": true
   },
-  "cSpell.words": [
-    "colors",
-    "sass",
-    "svgs"
-  ]
 }

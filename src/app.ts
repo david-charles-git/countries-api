@@ -8,7 +8,7 @@ dotenv.config({ path: './.env.local' });
 connectToMongoDB();
 
 const app = express();
-const port: number = Number(process.env.PORT) as number;
+const port: number = Number(process.env.PORT) || 5000;
 
 app.use(cors());
 app.use(express.json());
