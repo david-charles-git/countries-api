@@ -2,6 +2,7 @@
 ./src
 /.vscode
 /.git
+/assets/images
 
 .gitignore
  .env.*

@@ -2,5 +2,6 @@
 /dist
 /.aws
 /src/dev
+/assets/images
 
 .env.*
