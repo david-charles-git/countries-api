@@ -1,5 +1,4 @@
-import Country from '../models/Country';
-import { Country as CountryType, CountriesResponse, CountryResponse } from '../types';
+import { Country as CountryModel } from '../models/Country';
 
 const getAllCountries = async () => {
   var response: CountriesResponse = {
@@ -9,7 +8,7 @@ const getAllCountries = async () => {
   };
 
   try {
-    const countries = await Country.find();
+    const countries = await CountryModel.find();
 
     if (!countries) return { ...response, message: 'No countries found' };
 
@@ -29,7 +28,7 @@ const getCountryByValue = async (value: string) => {
   if (!value) return { ...response, message: 'No value provided' };
 
   try {
-    const country = await Country.findOne({ value });
+    const country = await CountryModel.findOne({ value });
 
     if (!country) return { ...response, message: 'No country found' };
 
@@ -39,7 +38,7 @@ const getCountryByValue = async (value: string) => {
   }
 };
 
-const createCountry = async (countryData: CountryType) => {
+const createCountry = async (countryData: Country) => {
   var response: CountryResponse = {
     error: true,
     message: '',
@@ -49,7 +48,7 @@ const createCountry = async (countryData: CountryType) => {
   if (!countryData) return { ...response, message: 'All fields are required' };
 
   try {
-    const country = await Country.create(countryData);
+    const country = await CountryModel.create(countryData);
 
     if (!country) return { ...response, message: 'No country created' };
 
@@ -69,7 +68,7 @@ const updateCountryById = async (id: string, updateFields?: any[]) => {
   if (!id) return { ...response, message: 'Id is required' };
 
   try {
-    const country: any = await Country.findByIdAndUpdate(id, updateFields, {
+    const country: any = await CountryModel.findByIdAndUpdate(id, updateFields, {
       new: true,
     });
 
@@ -91,7 +90,7 @@ const deleteCountryById = async (id: string) => {
   if (!id) return { ...response, message: 'Id is required' };
 
   try {
-    const country: any = await Country.findByIdAndDelete(id);
+    const country: any = await CountryModel.findByIdAndDelete(id);
 
     if (!country) return { ...response, message: 'Country not found' };
 

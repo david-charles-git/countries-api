@@ -26,4 +26,4 @@ const schema = new mongoose.Schema({
 });
 
 const Country = mongoose.model('Country', schema);
-export default Country;
+export { Country };

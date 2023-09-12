@@ -41,5 +41,3 @@ type CountryResponse = {
   message: string;
   country: Country | null;
 };
-
-export { type CountriesResponse, type CountryResponse, type Continent, type Coordinates, type Currency, type TimeZone, type Country };
