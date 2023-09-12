@@ -8,12 +8,9 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.deleteCountryById = exports.updateCountryById = exports.createCountry = exports.getCountryByValue = exports.getAllCountries = void 0;
-const Country_1 = __importDefault(require("../models/Country"));
+const Country_1 = require("../models/Country");
 const getAllCountries = () => __awaiter(void 0, void 0, void 0, function* () {
     var response = {
         error: true,
@@ -21,7 +18,7 @@ const getAllCountries = () => __awaiter(void 0, void 0, void 0, function* () {
         countries: null,
     };
     try {
-        const countries = yield Country_1.default.find();
+        const countries = yield Country_1.Country.find();
         if (!countries)
             return Object.assign(Object.assign({}, response), { message: 'No countries found' });
         return Object.assign(Object.assign({}, response), { error: false, message: 'Countries found', countries });
@@ -40,7 +37,7 @@ const getCountryByValue = (value) => __awaiter(void 0, void 0, void 0, function*
     if (!value)
         return Object.assign(Object.assign({}, response), { message: 'No value provided' });
     try {
-        const country = yield Country_1.default.findOne({ value });
+        const country = yield Country_1.Country.findOne({ value });
         if (!country)
             return Object.assign(Object.assign({}, response), { message: 'No country found' });
         return Object.assign(Object.assign({}, response), { error: false, message: 'Country found', country });
@@ -50,16 +47,16 @@ const getCountryByValue = (value) => __awaiter(void 0, void 0, void 0, function*
     }
 });
 exports.getCountryByValue = getCountryByValue;
-const createCountry = ({ value, label, code, dialCode, continent, flagIcon, capitol, currency, timeZones, }) => __awaiter(void 0, void 0, void 0, function* () {
+const createCountry = (countryData) => __awaiter(void 0, void 0, void 0, function* () {
     var response = {
         error: true,
         message: '',
         country: null,
     };
-    if (!value || !label || !code || !dialCode || !continent || !flagIcon || !capitol || !currency || !timeZones)
+    if (!countryData)
         return Object.assign(Object.assign({}, response), { message: 'All fields are required' });
     try {
-        const country = yield Country_1.default.create({ value, label, code, dialCode, continent, flagIcon, capitol, currency, timeZones });
+        const country = yield Country_1.Country.create(countryData);
         if (!country)
             return Object.assign(Object.assign({}, response), { message: 'No country created' });
         return Object.assign(Object.assign({}, response), { error: false, message: 'Country created', country });
@@ -78,7 +75,7 @@ const updateCountryById = (id, updateFields) => __awaiter(void 0, void 0, void 0
     if (!id)
         return Object.assign(Object.assign({}, response), { message: 'Id is required' });
     try {
-        const country = yield Country_1.default.findByIdAndUpdate(id, updateFields, {
+        const country = yield Country_1.Country.findByIdAndUpdate(id, updateFields, {
             new: true,
         });
         if (!country)
@@ -99,7 +96,7 @@ const deleteCountryById = (id) => __awaiter(void 0, void 0, void 0, function* ()
     if (!id)
         return Object.assign(Object.assign({}, response), { message: 'Id is required' });
     try {
-        const country = yield Country_1.default.findByIdAndDelete(id);
+        const country = yield Country_1.Country.findByIdAndDelete(id);
         if (!country)
             return Object.assign(Object.assign({}, response), { message: 'Country not found' });
         return Object.assign(Object.assign({}, response), { error: false, message: 'Country deleted', country });
