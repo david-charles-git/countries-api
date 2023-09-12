@@ -10,6 +10,7 @@
   "include": [
     "src/**/*.ts"
   ],
+  "typeRoots": ["./src/lib/types"],
   "exclude": [
     "node_modules"
   ],

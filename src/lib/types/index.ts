@@ -1,20 +1,24 @@
-type Continent = 'Africa' | 'Antarctica' | 'Asia' | 'Europe' | 'North America' | 'Oceania' | 'South America';
+import { ObjectId } from 'mongodb';
 
-type Coordinates = [number, number, number?];
+export type Continent = 'Africa' | 'Antarctica' | 'Asia' | 'Europe' | 'North America' | 'Oceania' | 'South America';
 
-type Currency = {
+export type Coordinates = [number, number, number?];
+
+export type Currency = {
   code: string;
   name: string;
   symbol: string;
 };
 
-type TimeZone = {
+export type TimeZone = {
   code: string;
   name: string;
   utcOffset: number;
+  _id?: ObjectId | string;
 };
 
-type Country = {
+export type Country = {
+  _id?: ObjectId | string;
   value: string;
   label: string;
   dialCode: string;
@@ -24,19 +28,19 @@ type Country = {
     name: string;
     coordinates: Coordinates;
   };
-
   continent: Continent;
   currency: Currency;
   timeZones: TimeZone[];
+  __v?: number;
 };
 
-type CountriesResponse = {
+export type CountriesResponse = {
   error: boolean;
   message: string;
   countries: Country[] | null;
 };
 
-type CountryResponse = {
+export type CountryResponse = {
   error: boolean;
   message: string;
   country: Country | null;

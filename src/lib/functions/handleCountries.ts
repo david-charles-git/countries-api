@@ -1,4 +1,5 @@
 import { Country as CountryModel } from '../models/Country';
+import { Country, CountriesResponse, CountryResponse } from '../types';
 
 const getAllCountries = async () => {
   var response: CountriesResponse = {

@@ -1,7 +1,6 @@
 /node_modules
 /dist
 /.aws
-/.vscode
 /src/dev
 
 .env.*
