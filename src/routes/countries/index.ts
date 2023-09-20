@@ -1,30 +1,38 @@
+import {
+  createCountry,
+  getAllCountries,
+  updateCountryById,
+  deleteCountryById,
+  getCountryByValue,
+  getAllCachedCountries,
+  getCachedCountryByValue,
+} from '../../lib/functions/handleCountries';
 import express, { Router, Request, Response } from 'express';
-import { getAllCountries, getCountryByValue, createCountry, updateCountryById, deleteCountryById } from '../../lib/functions/handleCountries';
 
 const countriesRouter: Router = express.Router();
 
 // Get all countries
 countriesRouter.route('/').get(async (request: Request, response: Response) => {
   try {
-    const countriesResponse = await getAllCountries();
+    // const countriesResponse = await getAllCountries();
+    const countriesResponse = getAllCachedCountries();
 
     if (countriesResponse.error) return response.status(400).json(countriesResponse);
 
     return response.status(200).json(countriesResponse);
   } catch (error: any) {
-    console.error(`Get all mongo users error: ${error.message}`);
-    return response.status(500).json({ error: true, message: error.message, user: null });
+    console.error(`Get all Countries error: ${error.message}`);
+    return response.status(500).json({ error: true, message: error.message, countries: null });
   }
 });
 
-// Get user by value
+// Get country by value
 countriesRouter.route('/:value').get(async (request: Request, response: Response) => {
   const { value } = request.params;
 
-  if (!value) return response.json({ error: true, message: 'Value is required', user: null });
-
   try {
-    const countriesResponse = await getCountryByValue(value);
+    // const countriesResponse = await getCountryByValue(value);
+    const countriesResponse = getCachedCountryByValue(value);
 
     if (countriesResponse.error) return response.status(400).json(countriesResponse);
 
@@ -38,9 +46,6 @@ countriesRouter.route('/:value').get(async (request: Request, response: Response
 // Create country
 countriesRouter.route('/').post(async (request: Request, response: Response) => {
   const { value, label, code, dialCode, continent, flagIcon, capitol, currency, timeZones } = request.body;
-
-  if (!value || !label || !code || !dialCode || !continent || !flagIcon || !capitol || !currency || !timeZones)
-    return response.json({ error: true, message: 'All fields are required', user: null });
 
   try {
     const createdCountry = await createCountry({ value, label, code, dialCode, continent, flagIcon, capitol, currency, timeZones });
@@ -59,8 +64,6 @@ countriesRouter.route('/:id').patch(async (request: Request, response: Response)
   const { id } = request.params;
   const updateFields = request.body;
 
-  if (!id) return response.json({ error: true, message: 'Id is required', user: null });
-
   try {
     const updatedCountry: any = await updateCountryById(id, updateFields);
 
@@ -76,8 +79,6 @@ countriesRouter.route('/:id').patch(async (request: Request, response: Response)
 // Delete country by id
 countriesRouter.route('/:id').delete(async (request: Request, response: Response) => {
   const { id } = request.params;
-
-  if (!id) return response.json({ error: true, message: 'Id is required', user: null });
 
   try {
     const deletedCountry: any = await deleteCountryById(id);

@@ -8,6 +8,7 @@ export type Currency = {
   code: string;
   name: string;
   symbol: string;
+  exchangeRate?: number;
 };
 
 export type TimeZone = {
@@ -31,6 +32,7 @@ export type Country = {
   continent: Continent;
   currency: Currency;
   timeZones: TimeZone[];
+  language?: string;
   __v?: number;
 };
 
@@ -44,4 +46,24 @@ export type CountryResponse = {
   error: boolean;
   message: string;
   country: Country | null;
+};
+
+export type ExchangeRate = {
+  success: boolean;
+  timestamp: number;
+  base: string;
+  date: string;
+  rates: any; // an object where the keys are the currency codes and the values are the exchange rates (number)
+};
+
+export type ExchangeRatesResponse = {
+  error: boolean;
+  message: string;
+  exchangeRates: any | null; // an object where the keys are the currency codes and the values are the exchange rates (number)
+};
+
+export type ExchangeRateResponse = {
+  error: boolean;
+  message: string;
+  exchangeRate: number | null;
 };

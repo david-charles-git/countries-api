@@ -23,10 +23,14 @@ def convert_png_to_webp(input_folder, output_folder):
                 print(f"Failed to convert {input_path} to WebP: {e}")
 
 if __name__ == "__main__":
-    input_folder = input("Enter the path to the input folder: ")
+    input_folder = 'input';
 
     if not os.path.exists(input_folder):
         print(f"Input folder '{input_folder}' does not exist.")
     else:
-        output_folder = input("Enter the path to the output folder: ")
+        output_folder = 'output'
+
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+            
         convert_png_to_webp(input_folder, output_folder)

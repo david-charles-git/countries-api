@@ -15,6 +15,7 @@ const schema = new mongoose.Schema({
     code: { type: String, required: true },
     name: { type: String, required: true },
     symbol: { type: String, required: true },
+    exchangeRate: { type: Number, required: true, default: 0 },
   },
   timeZones: [
     {
@@ -23,6 +24,7 @@ const schema = new mongoose.Schema({
       utcOffset: { type: Number, required: true },
     },
   ],
+  language: { type: String },
 });
 
 const Country = mongoose.model('Country', schema);

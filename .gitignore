@@ -3,5 +3,6 @@
 /.aws
 /src/dev
 /assets/images
+/.github
 
-.env.*
+# .env.*

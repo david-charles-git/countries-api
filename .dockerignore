@@ -2,7 +2,9 @@
 ./src
 /.vscode
 /.git
-/assets/images
+/.github
+/.aws
+/assets
 
 .gitignore
- .env.*
+#  .env.*

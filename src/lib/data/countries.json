@@ -1,0 +1,7832 @@
+[
+  {
+    "capitol": {
+      "name": "Kabul",
+      "coordinates": [
+        34.51666666,
+        69.183333
+      ]
+    },
+    "currency": {
+      "code": "AFN",
+      "name": "Afghan afghani",
+      "symbol": "؋",
+      "exchangeRate": 97.306402964445
+    },
+    "_id": "6500b91996c492a0fd5683df",
+    "value": "afghanistan",
+    "label": "Afghanistan",
+    "dialCode": "+93",
+    "code": "AF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/af.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AFT",
+        "name": "Afghanistan Time",
+        "utcOffset": 4.5,
+        "_id": "6500b91996c492a0fd5683e0"
+      }
+    ],
+    "language": "Pashto",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tirana",
+      "coordinates": [
+        41.31666666,
+        19.816667
+      ]
+    },
+    "currency": {
+      "code": "ALL",
+      "name": "Albanian lek",
+      "symbol": "L",
+      "exchangeRate": 123.59062945714125
+    },
+    "_id": "6500b91996c492a0fd5683e1",
+    "value": "albania",
+    "label": "Albania",
+    "dialCode": "+355",
+    "code": "AL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/al.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd5683e2"
+      }
+    ],
+    "language": "Albanian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Algiers",
+      "coordinates": [
+        36.75,
+        3.05
+      ]
+    },
+    "currency": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج",
+      "exchangeRate": 169.96637030727223
+    },
+    "_id": "6500b91996c492a0fd5683e3",
+    "value": "algeria",
+    "label": "Algeria",
+    "dialCode": "+213",
+    "code": "DZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/dz.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd5683e4"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Pago Pago",
+      "coordinates": [
+        -14.26666666,
+        -170.7
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91996c492a0fd5683e5",
+    "value": "american-samoa",
+    "label": "American Samoa",
+    "dialCode": "+1 684",
+    "code": "AS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/as.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "SST",
+        "name": "Samoa Standard Time",
+        "utcOffset": -11,
+        "_id": "6500b91996c492a0fd5683e6"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Andorra la Vella",
+      "coordinates": [
+        42.5,
+        1.51666666
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91996c492a0fd5683e7",
+    "value": "andorra",
+    "label": "Andorra",
+    "dialCode": "+376",
+    "code": "AD",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ad.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd5683e8"
+      }
+    ],
+    "language": "Catalan",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Luanda",
+      "coordinates": [
+        -8.83333333,
+        13.216667
+      ]
+    },
+    "currency": {
+      "code": "AOA",
+      "name": "Angolan kwanza",
+      "symbol": "Kz",
+      "exchangeRate": 1029.4022634879116
+    },
+    "_id": "6500b91996c492a0fd5683e9",
+    "value": "angola",
+    "label": "Angola",
+    "dialCode": "+244",
+    "code": "AO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ao.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd5683ea"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "The Valley",
+      "coordinates": [
+        18.21666666,
+        -63.05
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91996c492a0fd5683eb",
+    "value": "anguilla",
+    "label": "Anguilla",
+    "dialCode": "+1 264",
+    "code": "AI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ai.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91996c492a0fd5683ec"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Saint John's",
+      "coordinates": [
+        17.11666666,
+        -61.85
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91996c492a0fd5683ed",
+    "value": "antigua-barbuda",
+    "label": "Antigua & Barbuda",
+    "dialCode": "+1268",
+    "code": "AG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ag.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91996c492a0fd5683ee"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Buenos Aires",
+      "coordinates": [
+        -34.58333333,
+        -58.666667
+      ]
+    },
+    "currency": {
+      "code": "ARS",
+      "name": "Argentine peso",
+      "symbol": "$",
+      "exchangeRate": 433.81633879901915
+    },
+    "_id": "6500b91996c492a0fd5683ef",
+    "value": "argentina",
+    "label": "Argentina",
+    "dialCode": "+54",
+    "code": "AR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ar.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "ART",
+        "name": "Argentina Time",
+        "utcOffset": -3,
+        "_id": "6500b91996c492a0fd5683f0"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Yerevan",
+      "coordinates": [
+        40.16666666,
+        44.5
+      ]
+    },
+    "currency": {
+      "code": "AMD",
+      "name": "Armenian dram",
+      "symbol": "֏",
+      "exchangeRate": 477.15615211697167
+    },
+    "_id": "6500b91996c492a0fd5683f1",
+    "value": "armenia",
+    "label": "Armenia",
+    "dialCode": "+374",
+    "code": "AM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/am.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AMT",
+        "name": "Armenia Time",
+        "utcOffset": 4,
+        "_id": "6500b91996c492a0fd5683f2"
+      }
+    ],
+    "language": "Armenian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Oranjestad",
+      "coordinates": [
+        12.51666666,
+        -70.033333
+      ]
+    },
+    "currency": {
+      "code": "AWG",
+      "name": "Aruban florin",
+      "symbol": "ƒ",
+      "exchangeRate": 2.2310999803871283
+    },
+    "_id": "6500b91996c492a0fd5683f3",
+    "value": "aruba",
+    "label": "Aruba",
+    "dialCode": "+297",
+    "code": "AW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/aw.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91996c492a0fd5683f4"
+      }
+    ],
+    "language": "Dutch",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Canberra",
+      "coordinates": [
+        -35.26666666,
+        149.133333
+      ]
+    },
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.9200978554658987
+    },
+    "_id": "6500b91996c492a0fd5683f5",
+    "value": "australia",
+    "label": "Australia",
+    "dialCode": "+61",
+    "code": "AU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/au.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "AWST",
+        "name": "Australian Western Standard Time",
+        "utcOffset": 8,
+        "_id": "6500b91996c492a0fd5683f6"
+      },
+      {
+        "code": "ACST",
+        "name": "Australian Central Standard Time",
+        "utcOffset": 9.5,
+        "_id": "6500b91996c492a0fd5683f7"
+      },
+      {
+        "code": "AEST",
+        "name": "Australian Eastern Standard Time",
+        "utcOffset": 10,
+        "_id": "6500b91996c492a0fd5683f8"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Vienna",
+      "coordinates": [
+        48.2,
+        16.366667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91996c492a0fd5683f9",
+    "value": "austria",
+    "label": "Austria",
+    "dialCode": "+43",
+    "code": "AT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/at.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd5683fa"
+      }
+    ],
+    "language": "German",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Baku",
+      "coordinates": [
+        40.38333333,
+        49.866667
+      ]
+    },
+    "currency": {
+      "code": "AZN",
+      "name": "Azerbaijani manat",
+      "symbol": "₼",
+      "exchangeRate": 2.105379149311983
+    },
+    "_id": "6500b91996c492a0fd5683fb",
+    "value": "azerbaijan",
+    "label": "Azerbaijan",
+    "dialCode": "+994",
+    "code": "AZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/az.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AZT",
+        "name": "Azerbaijan Time",
+        "utcOffset": 4,
+        "_id": "6500b91996c492a0fd5683fc"
+      }
+    ],
+    "language": "Azerbaijani",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nassau",
+      "coordinates": [
+        25.08333333,
+        -77.35
+      ]
+    },
+    "currency": {
+      "code": "BSD",
+      "name": "Bahamian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2395172680313666
+    },
+    "_id": "6500b91996c492a0fd5683fd",
+    "value": "bahamas",
+    "label": "Bahamas",
+    "dialCode": "+1 242",
+    "code": "BS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bs.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "EST",
+        "name": "Eastern Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91996c492a0fd5683fe"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Manama",
+      "coordinates": [
+        26.23333333,
+        50.566667
+      ]
+    },
+    "currency": {
+      "code": "BHD",
+      "name": "Bahraini dinar",
+      "symbol": ".د.ب",
+      "exchangeRate": 0.46711130246878485
+    },
+    "_id": "6500b91996c492a0fd5683ff",
+    "value": "bahrain",
+    "label": "Bahrain",
+    "dialCode": "+973",
+    "code": "BH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bh.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Arabia Standard Time",
+        "utcOffset": 3,
+        "_id": "6500b91996c492a0fd568400"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Dhaka",
+      "coordinates": [
+        23.71666666,
+        90.4
+      ]
+    },
+    "currency": {
+      "code": "BDT",
+      "name": "Bangladeshi taka",
+      "symbol": "৳",
+      "exchangeRate": 136.04568754721888
+    },
+    "_id": "6500b91996c492a0fd568401",
+    "value": "bangladesh",
+    "label": "Bangladesh",
+    "dialCode": "+880",
+    "code": "BD",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bd.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "BST",
+        "name": "Bangladesh Standard Time",
+        "utcOffset": 6,
+        "_id": "6500b91996c492a0fd568402"
+      }
+    ],
+    "language": "Bengali",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bridgetown",
+      "coordinates": [
+        13.1,
+        -59.616667
+      ]
+    },
+    "currency": {
+      "code": "BBD",
+      "name": "Barbadian dollar",
+      "symbol": "$",
+      "exchangeRate": 2.5027823586277487
+    },
+    "_id": "6500b91996c492a0fd568403",
+    "value": "barbados",
+    "label": "Barbados",
+    "dialCode": "+1 246",
+    "code": "BB",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bb.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91996c492a0fd568404"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Minsk",
+      "coordinates": [
+        53.9,
+        27.566667
+      ]
+    },
+    "currency": {
+      "code": "BYN",
+      "name": "New Belarusian ruble",
+      "symbol": "Br",
+      "exchangeRate": 3.1287962222591013
+    },
+    "_id": "6500b91996c492a0fd568405",
+    "value": "belarus",
+    "label": "Belarus",
+    "dialCode": "+375",
+    "code": "BY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/by.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "FET",
+        "name": "Further-eastern European Time",
+        "utcOffset": 3,
+        "_id": "6500b91996c492a0fd568406"
+      }
+    ],
+    "language": "Belarusian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Brussels",
+      "coordinates": [
+        50.83333333,
+        4.333333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91996c492a0fd568407",
+    "value": "belgium",
+    "label": "Belgium",
+    "dialCode": "+32",
+    "code": "BE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/be.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd568408"
+      }
+    ],
+    "language": "Dutch",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Belmopan",
+      "coordinates": [
+        17.25,
+        -88.766667
+      ]
+    },
+    "currency": {
+      "code": "BZD",
+      "name": "Belize dollar",
+      "symbol": "$",
+      "exchangeRate": 2.49861143186732
+    },
+    "_id": "6500b91996c492a0fd568409",
+    "value": "belize",
+    "label": "Belize",
+    "dialCode": "+501",
+    "code": "BZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bz.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91996c492a0fd56840a"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Porto-Novo",
+      "coordinates": [
+        6.48333333,
+        2.616667
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91996c492a0fd56840b",
+    "value": "benin",
+    "label": "Benin",
+    "dialCode": "+229",
+    "code": "BJ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bj.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd56840c"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Hamilton",
+      "coordinates": [
+        32.28333333,
+        -64.783333
+      ]
+    },
+    "currency": {
+      "code": "BMD",
+      "name": "Bermudian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91996c492a0fd56840d",
+    "value": "bermuda",
+    "label": "Bermuda",
+    "dialCode": "+1 441",
+    "code": "BM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bm.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91996c492a0fd56840e"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Thimphu",
+      "coordinates": [
+        27.46666666,
+        89.633333
+      ]
+    },
+    "currency": {
+      "code": "BTN",
+      "name": "Bhutanese ngultrum",
+      "symbol": "Nu.",
+      "exchangeRate": 103.11160304475332
+    },
+    "_id": "6500b91996c492a0fd56840f",
+    "value": "bhutan",
+    "label": "Bhutan",
+    "dialCode": "+975",
+    "code": "BT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bt.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "BTT",
+        "name": "Bhutan Time",
+        "utcOffset": 6,
+        "_id": "6500b91996c492a0fd568410"
+      }
+    ],
+    "language": "Dzongkha",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Sucre",
+      "coordinates": [
+        -19.03333333,
+        -65.25
+      ]
+    },
+    "currency": {
+      "code": "BOB",
+      "name": "Bolivian boliviano",
+      "symbol": "Bs.",
+      "exchangeRate": 8.565410088907818
+    },
+    "_id": "6500b91996c492a0fd568411",
+    "value": "bolivia",
+    "label": "Bolivia",
+    "dialCode": "+591",
+    "code": "BO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bo.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "BOT",
+        "name": "Bolivia Time",
+        "utcOffset": -4,
+        "_id": "6500b91996c492a0fd568412"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Sarajevo",
+      "coordinates": [
+        43.86666666,
+        18.416667
+      ]
+    },
+    "currency": {
+      "code": "BAM",
+      "name": "Bosnia & Herzegovina convertible mark",
+      "symbol": "KM",
+      "exchangeRate": 2.2657254035435472
+    },
+    "_id": "6500b91996c492a0fd568413",
+    "value": "bosnia-herzegovina",
+    "label": "Bosnia & Herzegovina",
+    "dialCode": "+387",
+    "code": "BA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ba.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91996c492a0fd568414"
+      }
+    ],
+    "language": "Bosnian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Gaborone",
+      "coordinates": [
+        -24.63333333,
+        25.9
+      ]
+    },
+    "currency": {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P",
+      "exchangeRate": 16.910719653142298
+    },
+    "_id": "6500b91996c492a0fd568415",
+    "value": "botswana",
+    "label": "Botswana",
+    "dialCode": "+267",
+    "code": "BW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bw.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91996c492a0fd568416"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Brasília",
+      "coordinates": [
+        -15.78333333,
+        -47.916667
+      ]
+    },
+    "currency": {
+      "code": "BRL",
+      "name": "Brazilian real",
+      "symbol": "R$",
+      "exchangeRate": 6.033636655877653
+    },
+    "_id": "6500b91996c492a0fd568417",
+    "value": "brazil",
+    "label": "Brazil",
+    "dialCode": "+55",
+    "code": "BR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/br.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "BRT",
+        "name": "Brasília Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd568418"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Diego Garcia",
+      "coordinates": [
+        -7.3,
+        72.4
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568419",
+    "value": "british-indian-ocean-territory",
+    "label": "British Indian Ocean Territory",
+    "dialCode": "+246",
+    "code": "IO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/io.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "IOT",
+        "name": "Indian Ocean Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd56841a"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Road Town",
+      "coordinates": [
+        18.41666666,
+        -64.616667
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd56841b",
+    "value": "british-virgin-islands",
+    "label": "British Virgin Islands",
+    "dialCode": "+1 284",
+    "code": "VG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/vg.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56841c"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bandar Seri Begawan",
+      "coordinates": [
+        4.88333333,
+        114.933333
+      ]
+    },
+    "currency": {
+      "code": "BND",
+      "name": "Brunei dollar",
+      "symbol": "$",
+      "exchangeRate": 1.6901456342791228
+    },
+    "_id": "6500b91a96c492a0fd56841d",
+    "value": "brunei",
+    "label": "Brunei",
+    "dialCode": "+673",
+    "code": "BN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bn.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "BNT",
+        "name": "Brunei Darussalam Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd56841e"
+      }
+    ],
+    "language": "Malay",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Sofia",
+      "coordinates": [
+        42.68333333,
+        23.316667
+      ]
+    },
+    "currency": {
+      "code": "BGN",
+      "name": "Bulgarian lev",
+      "symbol": "лв",
+      "exchangeRate": 2.269889367154126
+    },
+    "_id": "6500b91a96c492a0fd56841f",
+    "value": "bulgaria",
+    "label": "Bulgaria",
+    "dialCode": "+359",
+    "code": "BG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bg.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568420"
+      }
+    ],
+    "language": "Bulgarian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ouagadougou",
+      "coordinates": [
+        12.36666666,
+        -1.516667
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91a96c492a0fd568421",
+    "value": "burkina-faso",
+    "label": "Burkina Faso",
+    "dialCode": "+226",
+    "code": "BF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bf.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568422"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bujumbura",
+      "coordinates": [
+        -3.36666666,
+        29.35
+      ]
+    },
+    "currency": {
+      "code": "BIF",
+      "name": "Burundian franc",
+      "symbol": "Fr",
+      "exchangeRate": 3525.137141557355
+    },
+    "_id": "6500b91a96c492a0fd568423",
+    "value": "burundi",
+    "label": "Burundi",
+    "dialCode": "+257",
+    "code": "BI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bi.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568424"
+      }
+    ],
+    "language": "Kirundi",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Phnom Penh",
+      "coordinates": [
+        11.55,
+        104.916667
+      ]
+    },
+    "currency": {
+      "code": "KHR",
+      "name": "Cambodian riel",
+      "symbol": "៛",
+      "exchangeRate": 5106.738768149161
+    },
+    "_id": "6500b91a96c492a0fd568425",
+    "value": "cambodia",
+    "label": "Cambodia",
+    "dialCode": "+855",
+    "code": "KH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/kh.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "ICT",
+        "name": "Indochina Time",
+        "utcOffset": 7,
+        "_id": "6500b91a96c492a0fd568426"
+      }
+    ],
+    "language": "Khmer",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Yaoundé",
+      "coordinates": [
+        3.86666666,
+        11.516667
+      ]
+    },
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 759.8784129588861
+    },
+    "_id": "6500b91a96c492a0fd568427",
+    "value": "cameroon",
+    "label": "Cameroon",
+    "dialCode": "+237",
+    "code": "CM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cm.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568428"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ottawa",
+      "coordinates": [
+        45.41666666,
+        -75.7
+      ]
+    },
+    "currency": {
+      "code": "CAD",
+      "name": "Canadian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.6664453932380852
+    },
+    "_id": "6500b91a96c492a0fd568429",
+    "value": "canada",
+    "label": "Canada",
+    "dialCode": "+1",
+    "code": "CA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ca.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "PST",
+        "name": "Pacific Standard Time",
+        "utcOffset": -8,
+        "_id": "6500b91a96c492a0fd56842a"
+      },
+      {
+        "code": "MST",
+        "name": "Mountain Standard Time",
+        "utcOffset": -7,
+        "_id": "6500b91a96c492a0fd56842b"
+      },
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd56842c"
+      },
+      {
+        "code": "EST",
+        "name": "Eastern Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd56842d"
+      },
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56842e"
+      },
+      {
+        "code": "NST",
+        "name": "Newfoundland Standard Time",
+        "utcOffset": -3.5,
+        "_id": "6500b91a96c492a0fd56842f"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Praia",
+      "coordinates": [
+        14.91666666,
+        -23.516667
+      ]
+    },
+    "currency": {
+      "code": "CVE",
+      "name": "Cape Verdean escudo",
+      "symbol": "Esc",
+      "exchangeRate": 128.3878567308708
+    },
+    "_id": "6500b91a96c492a0fd568430",
+    "value": "cape-verde",
+    "label": "Cape Verde",
+    "dialCode": "+238",
+    "code": "CV",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cv.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CVT",
+        "name": "Cape Verde Time",
+        "utcOffset": -1,
+        "_id": "6500b91a96c492a0fd568431"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kralendijk",
+      "coordinates": [
+        12.15,
+        -68.266667
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568432",
+    "value": "caribbean-netherlands",
+    "label": "Caribbean Netherlands",
+    "dialCode": "+599",
+    "code": "BQ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bq.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568433"
+      }
+    ],
+    "language": "Dutch",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "George Town",
+      "coordinates": [
+        19.3,
+        -81.383333
+      ]
+    },
+    "currency": {
+      "code": "KYD",
+      "name": "Cayman Islands dollar",
+      "symbol": "$",
+      "exchangeRate": 1.032969354016983
+    },
+    "_id": "6500b91a96c492a0fd568434",
+    "value": "cayman-islands",
+    "label": "Cayman Islands",
+    "dialCode": "+1 345",
+    "code": "KY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ky.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "EST",
+        "name": "Eastern Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd568435"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bangui",
+      "coordinates": [
+        4.36666666,
+        18.583333
+      ]
+    },
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 759.8784129588861
+    },
+    "_id": "6500b91a96c492a0fd568436",
+    "value": "central-african-republic",
+    "label": "Central African Republic",
+    "dialCode": "+236",
+    "code": "CF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cf.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568437"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "N'Djamena",
+      "coordinates": [
+        12.1,
+        15.033333
+      ]
+    },
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 759.8784129588861
+    },
+    "_id": "6500b91a96c492a0fd568438",
+    "value": "chad",
+    "label": "Chad",
+    "dialCode": "+235",
+    "code": "TD",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/td.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568439"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Santiago",
+      "coordinates": [
+        -33.45,
+        -70.666667
+      ]
+    },
+    "currency": {
+      "code": "CLP",
+      "name": "Chilean peso",
+      "symbol": "$",
+      "exchangeRate": 1096.1508264678612
+    },
+    "_id": "6500b91a96c492a0fd56843a",
+    "value": "chile",
+    "label": "Chile",
+    "dialCode": "+56",
+    "code": "CL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cl.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "CLT",
+        "name": "Chile Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56843b"
+      },
+      {
+        "code": "CLST",
+        "name": "Chile Summer Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd56843c"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Beijing",
+      "coordinates": [
+        39.91666666,
+        116.383333
+      ]
+    },
+    "currency": {
+      "code": "CNY",
+      "name": "Chinese yuan",
+      "symbol": "¥",
+      "exchangeRate": 9.044135925327181
+    },
+    "_id": "6500b91a96c492a0fd56843d",
+    "value": "china",
+    "label": "China",
+    "dialCode": "+86",
+    "code": "CN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cn.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "China Standard Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd56843e"
+      }
+    ],
+    "language": "Chinese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bogotá",
+      "coordinates": [
+        4.6,
+        -74.083333
+      ]
+    },
+    "currency": {
+      "code": "COP",
+      "name": "Colombian peso",
+      "symbol": "$",
+      "exchangeRate": 4863.177065937548
+    },
+    "_id": "6500b91a96c492a0fd56843f",
+    "value": "colombia",
+    "label": "Colombia",
+    "dialCode": "+57",
+    "code": "CO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/co.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "COT",
+        "name": "Colombia Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd568440"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Moroni",
+      "coordinates": [
+        -11.7,
+        43.233333
+      ]
+    },
+    "currency": {
+      "code": "KMF",
+      "name": "Comorian franc",
+      "symbol": "Fr",
+      "exchangeRate": 571.4093682218088
+    },
+    "_id": "6500b91a96c492a0fd568441",
+    "value": "comoros",
+    "label": "Comoros",
+    "dialCode": "+269",
+    "code": "KM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/km.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd568442"
+      }
+    ],
+    "language": "Comorian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Brazzaville",
+      "coordinates": [
+        -4.25,
+        15.283333
+      ]
+    },
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 759.8784129588861
+    },
+    "_id": "6500b91a96c492a0fd568443",
+    "value": "congo-brazzaville",
+    "label": "Congo - Brazzaville",
+    "dialCode": "+242",
+    "code": "CG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cg.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568444"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kinshasa",
+      "coordinates": [
+        -4.31666666,
+        15.3
+      ]
+    },
+    "currency": {
+      "code": "CDF",
+      "name": "Congolese franc",
+      "symbol": "Fr",
+      "exchangeRate": 3018.1818310530957
+    },
+    "_id": "6500b91a96c492a0fd568445",
+    "value": "congo-kinshasa",
+    "label": "Congo - Kinshasa",
+    "dialCode": "+243",
+    "code": "CD",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cd.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568446"
+      },
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568447"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Avarua",
+      "coordinates": [
+        -21.2,
+        -159.766667
+      ]
+    },
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$",
+      "exchangeRate": 2.087732206540951
+    },
+    "_id": "6500b91a96c492a0fd568448",
+    "value": "cook-islands",
+    "label": "Cook Islands",
+    "dialCode": "+682",
+    "code": "CK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ck.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "CKT",
+        "name": "Cook Island Time",
+        "utcOffset": -10,
+        "_id": "6500b91a96c492a0fd568449"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "San José",
+      "coordinates": [
+        9.93333333,
+        -84.083333
+      ]
+    },
+    "currency": {
+      "code": "CRC",
+      "name": "Costa Rican colón",
+      "symbol": "₡",
+      "exchangeRate": 657.2915772578884
+    },
+    "_id": "6500b91a96c492a0fd56844a",
+    "value": "costa-rica",
+    "label": "Costa Rica",
+    "dialCode": "+506",
+    "code": "CR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cr.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd56844b"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Yamoussoukro",
+      "coordinates": [
+        6.81666666,
+        -5.266667
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91a96c492a0fd56844c",
+    "value": "cote-d-ivoire",
+    "label": "Côte d’Ivoire",
+    "dialCode": "+225",
+    "code": "CI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ci.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd56844d"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Zagreb",
+      "coordinates": [
+        45.8,
+        16
+      ]
+    },
+    "currency": {
+      "code": "HRK",
+      "name": "Croatian kuna",
+      "symbol": "kn",
+      "exchangeRate": 8.69472970793068
+    },
+    "_id": "6500b91a96c492a0fd56844e",
+    "value": "croatia",
+    "label": "Croatia",
+    "dialCode": "+385",
+    "code": "HR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/hr.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd56844f"
+      }
+    ],
+    "language": "Croatian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Havana",
+      "coordinates": [
+        23.11666666,
+        -82.35
+      ]
+    },
+    "currency": {
+      "code": "CUC",
+      "name": "Cuban convertible peso",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568450",
+    "value": "cuba",
+    "label": "Cuba",
+    "dialCode": "+53",
+    "code": "CU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cu.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Cuba Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd568451"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Willemstad",
+      "coordinates": [
+        12.1,
+        -68.916667
+      ]
+    },
+    "currency": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ",
+      "exchangeRate": 2.2340268243742742
+    },
+    "_id": "6500b91a96c492a0fd568452",
+    "value": "curacao",
+    "label": "Curaçao",
+    "dialCode": "+599",
+    "code": "CW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cw.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568453"
+      }
+    ],
+    "language": "Dutch",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nicosia",
+      "coordinates": [
+        35.16666666,
+        33.366667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568454",
+    "value": "cyprus",
+    "label": "Cyprus",
+    "dialCode": "+357",
+    "code": "CY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cy.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568455"
+      }
+    ],
+    "language": "Greek",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Prague",
+      "coordinates": [
+        50.08333333,
+        14.466667
+      ]
+    },
+    "currency": {
+      "code": "CZK",
+      "name": "Czech koruna",
+      "symbol": "Kč",
+      "exchangeRate": 28.370667034939927
+    },
+    "_id": "6500b91a96c492a0fd568456",
+    "value": "czech-republic",
+    "label": "Czech Republic",
+    "dialCode": "+420",
+    "code": "CZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/cz.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568457"
+      }
+    ],
+    "language": "Czech",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Copenhagen",
+      "coordinates": [
+        55.66666666,
+        12.583333
+      ]
+    },
+    "currency": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr",
+      "exchangeRate": 8.650579856303798
+    },
+    "_id": "6500b91a96c492a0fd568458",
+    "value": "denmark",
+    "label": "Denmark",
+    "dialCode": "+45",
+    "code": "DK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/dk.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568459"
+      },
+      {
+        "code": "WET",
+        "name": "Western European Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd56845a"
+      }
+    ],
+    "language": "Danish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Djibouti",
+      "coordinates": [
+        11.58333333,
+        43.15
+      ]
+    },
+    "currency": {
+      "code": "DJF",
+      "name": "Djiboutian franc",
+      "symbol": "Fr",
+      "exchangeRate": 220.28444118981665
+    },
+    "_id": "6500b91a96c492a0fd56845b",
+    "value": "djibouti",
+    "label": "Djibouti",
+    "dialCode": "+253",
+    "code": "DJ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/dj.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd56845c"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Roseau",
+      "coordinates": [
+        15.3,
+        -61.4
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91a96c492a0fd56845d",
+    "value": "dominica",
+    "label": "Dominica",
+    "dialCode": "+1 767",
+    "code": "DM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/dm.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56845e"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Santo Domingo",
+      "coordinates": [
+        18.46666666,
+        -69.9
+      ]
+    },
+    "currency": {
+      "code": "DOP",
+      "name": "Dominican peso",
+      "symbol": "$",
+      "exchangeRate": 70.27306340296096
+    },
+    "_id": "6500b91a96c492a0fd56845f",
+    "value": "dominican-republic",
+    "label": "Dominican Republic",
+    "dialCode": "+1 809",
+    "code": "DO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/do.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568460"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Quito",
+      "coordinates": [
+        -0.21666666,
+        -78.5
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568461",
+    "value": "ecuador",
+    "label": "Ecuador",
+    "dialCode": "+593",
+    "code": "EC",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ec.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "ECT",
+        "name": "Ecuador Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd568462"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Cairo",
+      "coordinates": [
+        30.05,
+        31.25
+      ]
+    },
+    "currency": {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "symbol": "£",
+      "exchangeRate": 38.29384956578958
+    },
+    "_id": "6500b91a96c492a0fd568463",
+    "value": "egypt",
+    "label": "Egypt",
+    "dialCode": "+20",
+    "code": "EG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/eg.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568464"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "San Salvador",
+      "coordinates": [
+        13.7,
+        -89.2
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568465",
+    "value": "el-salvador",
+    "label": "El Salvador",
+    "dialCode": "+503",
+    "code": "SV",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sv.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd568466"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Malabo",
+      "coordinates": [
+        3.75,
+        8.783333
+      ]
+    },
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 759.8784129588861
+    },
+    "_id": "6500b91a96c492a0fd568467",
+    "value": "equatorial-guinea",
+    "label": "Equatorial Guinea",
+    "dialCode": "+240",
+    "code": "GQ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gq.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568468"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Asmara",
+      "coordinates": [
+        15.33333333,
+        38.933333
+      ]
+    },
+    "currency": {
+      "code": "ERN",
+      "name": "Eritrean nakfa",
+      "symbol": "Nfk",
+      "exchangeRate": 18.592495581301158
+    },
+    "_id": "6500b91a96c492a0fd568469",
+    "value": "eritrea",
+    "label": "Eritrea",
+    "dialCode": "+291",
+    "code": "ER",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/er.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd56846a"
+      }
+    ],
+    "language": "Tigrinya",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tallinn",
+      "coordinates": [
+        59.43333333,
+        24.716667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd56846b",
+    "value": "estonia",
+    "label": "Estonia",
+    "dialCode": "+372",
+    "code": "EE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ee.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd56846c"
+      }
+    ],
+    "language": "Estonian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Addis Ababa",
+      "coordinates": [
+        9.03333333,
+        38.7
+      ]
+    },
+    "currency": {
+      "code": "ETB",
+      "name": "Ethiopian birr",
+      "symbol": "Br",
+      "exchangeRate": 68.45137922590663
+    },
+    "_id": "6500b91a96c492a0fd56846d",
+    "value": "ethiopia",
+    "label": "Ethiopia",
+    "dialCode": "+251",
+    "code": "ET",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/et.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd56846e"
+      }
+    ],
+    "language": "Amharic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Stanley",
+      "coordinates": [
+        -51.7,
+        -57.85
+      ]
+    },
+    "currency": {
+      "code": "FKP",
+      "name": "Falkland Islands pound",
+      "symbol": "£",
+      "exchangeRate": 0.9995090979355422
+    },
+    "_id": "6500b91a96c492a0fd56846f",
+    "value": "falkland-islands",
+    "label": "Falkland Islands",
+    "dialCode": "+500",
+    "code": "FK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/fk.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "FKT",
+        "name": "Falkland Islands Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568470"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tórshavn",
+      "coordinates": [
+        62.01666666,
+        -6.766667
+      ]
+    },
+    "currency": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr",
+      "exchangeRate": 8.650579856303798
+    },
+    "_id": "6500b91a96c492a0fd568471",
+    "value": "faroe-islands",
+    "label": "Faroe Islands",
+    "dialCode": "+298",
+    "code": "FO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/fo.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "WET",
+        "name": "Western European Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568472"
+      }
+    ],
+    "language": "Faroese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Suva",
+      "coordinates": [
+        -18.13333333,
+        178.416667
+      ]
+    },
+    "currency": {
+      "code": "FJD",
+      "name": "Fijian dollar",
+      "symbol": "$",
+      "exchangeRate": 2.8049865437129142
+    },
+    "_id": "6500b91a96c492a0fd568473",
+    "value": "fiji",
+    "label": "Fiji",
+    "dialCode": "+679",
+    "code": "FJ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/fj.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "FJT",
+        "name": "Fiji Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd568474"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Helsinki",
+      "coordinates": [
+        60.16666666,
+        24.933333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568475",
+    "value": "finland",
+    "label": "Finland",
+    "dialCode": "+358",
+    "code": "FI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/fi.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568476"
+      }
+    ],
+    "language": "Finnish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Paris",
+      "coordinates": [
+        48.86666666,
+        2.333333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568477",
+    "value": "france",
+    "label": "France",
+    "dialCode": "+33",
+    "code": "FR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/fr.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568478"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Cayenne",
+      "coordinates": [
+        4.93333333,
+        -52.333333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568479",
+    "value": "french-guiana",
+    "label": "French Guiana",
+    "dialCode": "+594",
+    "code": "GF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gf.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "GFT",
+        "name": "French Guiana Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd56847a"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Papeetē",
+      "coordinates": [
+        -17.53333333,
+        -149.566667
+      ]
+    },
+    "currency": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr",
+      "exchangeRate": 139.1028596495911
+    },
+    "_id": "6500b91a96c492a0fd56847b",
+    "value": "french-polynesia",
+    "label": "French Polynesia",
+    "dialCode": "+689",
+    "code": "PF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pf.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "GFT",
+        "name": "French Guiana Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd56847c"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Libreville",
+      "coordinates": [
+        0.38333333,
+        9.45
+      ]
+    },
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 759.8784129588861
+    },
+    "_id": "6500b91a96c492a0fd56847d",
+    "value": "gabon",
+    "label": "Gabon",
+    "dialCode": "+241",
+    "code": "GA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ga.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd56847e"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Banjul",
+      "coordinates": [
+        13.45,
+        -16.566667
+      ]
+    },
+    "currency": {
+      "code": "GMD",
+      "name": "Gambian dalasi",
+      "symbol": "D",
+      "exchangeRate": 76.44003741532521
+    },
+    "_id": "6500b91a96c492a0fd56847f",
+    "value": "gambia",
+    "label": "Gambia",
+    "dialCode": "+220",
+    "code": "GM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gm.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568480"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tbilisi",
+      "coordinates": [
+        41.68333333,
+        44.833333
+      ]
+    },
+    "currency": {
+      "code": "GEL",
+      "name": "Georgian Lari",
+      "symbol": "ლ",
+      "exchangeRate": 3.2908890665781576
+    },
+    "_id": "6500b91a96c492a0fd568481",
+    "value": "georgia",
+    "label": "Georgia",
+    "dialCode": "+995",
+    "code": "GE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ge.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "GET",
+        "name": "Georgia Standard Time",
+        "utcOffset": 4,
+        "_id": "6500b91a96c492a0fd568482"
+      }
+    ],
+    "language": "Georgian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Berlin",
+      "coordinates": [
+        52.51666666,
+        13.4
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568483",
+    "value": "germany",
+    "label": "Germany",
+    "dialCode": "+49",
+    "code": "DE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/de.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568484"
+      }
+    ],  
+    "language": "German",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Accra",
+      "coordinates": [
+        5.55,
+        -0.216667
+      ]
+    },
+    "currency": {
+      "code": "GHS",
+      "name": "Ghanaian cedi",
+      "symbol": "₵",
+      "exchangeRate": 14.2728521874155
+    },
+    "_id": "6500b91a96c492a0fd568485",
+    "value": "ghana",
+    "label": "Ghana",
+    "dialCode": "+233",
+    "code": "GH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gh.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568486"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Gibraltar",
+      "coordinates": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "currency": {
+      "code": "GIP",
+      "name": "Gibraltar pound",
+      "symbol": "£",
+      "exchangeRate": 0.9995090979355422
+    },
+    "_id": "6500b91a96c492a0fd568487",
+    "value": "gibraltar",
+    "label": "Gibraltar",
+    "dialCode": "+350",
+    "code": "GI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gi.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568488"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Athens",
+      "coordinates": [
+        37.98333333,
+        23.733333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568489",
+    "value": "greece",
+    "label": "Greece",
+    "dialCode": "+30",
+    "code": "GR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gr.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd56848a"
+      }
+    ],
+    "language": "Greek",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nuuk",
+      "coordinates": [
+        64.18333333,
+        -51.75
+      ]
+    },
+    "currency": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr",
+      "exchangeRate": 8.650579856303798
+    },
+    "_id": "6500b91a96c492a0fd56848b",
+    "value": "greenland",
+    "label": "Greenland",
+    "dialCode": "+299",
+    "code": "GL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gl.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "WGT",
+        "name": "West Greenland Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd56848c"
+      },
+      {
+        "code": "EGT",
+        "name": "East Greenland Time",
+        "utcOffset": -1,
+        "_id": "6500b91a96c492a0fd56848d"
+      }
+    ],
+    "language": "Greenlandic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "St. George's",
+      "coordinates": [
+        12.05,
+        -61.75
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91a96c492a0fd56848e",
+    "value": "grenada",
+    "label": "Grenada",
+    "dialCode": "+1 473",
+    "code": "GD",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gd.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56848f"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Basse-Terre",
+      "coordinates": [
+        16,
+        -61.716667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568490",
+    "value": "guadeloupe",
+    "label": "Guadeloupe",
+    "dialCode": "+590",
+    "code": "GP",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gp.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "GFT",
+        "name": "French Guiana Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd568491"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Hagåtña",
+      "coordinates": [
+        13.46666666,
+        144.733333
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568492",
+    "value": "guam",
+    "label": "Guam",
+    "dialCode": "+1 671",
+    "code": "GU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gu.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "ChST",
+        "name": "Chamorro Standard Time",
+        "utcOffset": 10,
+        "_id": "6500b91a96c492a0fd568493"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Guatemala City",
+      "coordinates": [
+        14.61666666,
+        -90.516667
+      ]
+    },
+    "currency": {
+      "code": "GTQ",
+      "name": "Guatemalan quetzal",
+      "symbol": "Q",
+      "exchangeRate": 9.755115303958899
+    },
+    "_id": "6500b91a96c492a0fd568494",
+    "value": "guatemala",
+    "label": "Guatemala",
+    "dialCode": "+502",
+    "code": "GT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gt.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd568495"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "St. Peter Port",
+      "coordinates": [
+        49.45,
+        -2.533333
+      ]
+    },
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£",
+      "exchangeRate": 1
+    },
+    "_id": "6500b91a96c492a0fd568496",
+    "value": "guernsey",
+    "label": "Guernsey",
+    "dialCode": "+44",
+    "code": "GG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gg.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568497"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Conakry",
+      "coordinates": [
+        9.5,
+        -13.7
+      ]
+    },
+    "currency": {
+      "code": "GNF",
+      "name": "Guinean franc",
+      "symbol": "Fr",
+      "exchangeRate": 10727.869907471344
+    },
+    "_id": "6500b91a96c492a0fd568498",
+    "value": "guinea",
+    "label": "Guinea",
+    "dialCode": "+224",
+    "code": "GN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gn.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568499"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bissau",
+      "coordinates": [
+        11.85,
+        -15.583333
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91a96c492a0fd56849a",
+    "value": "guinea-bissau",
+    "label": "Guinea-Bissau",
+    "dialCode": "+245",
+    "code": "GW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gw.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd56849b"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Georgetown",
+      "coordinates": [
+        6.8,
+        -58.15
+      ]
+    },
+    "currency": {
+      "code": "GYD",
+      "name": "Guyanese dollar",
+      "symbol": "$",
+      "exchangeRate": 259.5456080512581
+    },
+    "_id": "6500b91a96c492a0fd56849c",
+    "value": "guyana",
+    "label": "Guyana",
+    "dialCode": "+592",
+    "code": "GY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gy.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "GYT",
+        "name": "Guyana Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56849d"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Port-au-Prince",
+      "coordinates": [
+        18.53333333,
+        -72.333333
+      ]
+    },
+    "currency": {
+      "code": "HTG",
+      "name": "Haitian gourde",
+      "symbol": "G",
+      "exchangeRate": 167.3463888524613
+    },
+    "_id": "6500b91a96c492a0fd56849e",
+    "value": "haiti",
+    "label": "Haiti",
+    "dialCode": "+509",
+    "code": "HT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ht.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "EST",
+        "name": "Eastern Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd56849f"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tegucigalpa",
+      "coordinates": [
+        14.1,
+        -87.216667
+      ]
+    },
+    "currency": {
+      "code": "HNL",
+      "name": "Honduran lempira",
+      "symbol": "L",
+      "exchangeRate": 30.73483977211932
+    },
+    "_id": "6500b91a96c492a0fd5684a0",
+    "value": "honduras",
+    "label": "Honduras",
+    "dialCode": "+504",
+    "code": "HN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/hn.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd5684a1"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Hong Kong",
+      "coordinates": [
+        22.25,
+        114.166667
+      ]
+    },
+    "currency": {
+      "code": "HKD",
+      "name": "Hong Kong dollar",
+      "symbol": "$",
+      "exchangeRate": 9.692825286446578
+    },
+    "_id": "6500b91a96c492a0fd5684a2",
+    "value": "hong-kong-sar-china",
+    "label": "Hong Kong SAR China",
+    "dialCode": "+852",
+    "code": "HK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/hk.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "HKT",
+        "name": "Hong Kong Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd5684a3"
+      }
+    ],
+    "language": "Chinese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Budapest",
+      "coordinates": [
+        47.5,
+        19.083333
+      ]
+    },
+    "currency": {
+      "code": "HUF",
+      "name": "Hungarian forint",
+      "symbol": "Ft",
+      "exchangeRate": 445.2782056891255
+    },
+    "_id": "6500b91a96c492a0fd5684a4",
+    "value": "hungary",
+    "label": "Hungary",
+    "dialCode": "+36",
+    "code": "HU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/hu.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5684a5"
+      }
+    ],
+    "language": "Hungarian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Reykjavík",
+      "coordinates": [
+        64.15,
+        -21.95
+      ]
+    },
+    "currency": {
+      "code": "ISK",
+      "name": "Icelandic króna",
+      "symbol": "kr",
+      "exchangeRate": 168.42314713483793
+    },
+    "_id": "6500b91a96c492a0fd5684a6",
+    "value": "iceland",
+    "label": "Iceland",
+    "dialCode": "+354",
+    "code": "IS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/is.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5684a7"
+      },
+      {
+        "code": "WET",
+        "name": "Western European Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5684a8"
+      }
+    ],
+    "language": "Icelandic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "New Delhi",
+      "coordinates": [
+        28.6,
+        77.2
+      ]
+    },
+    "currency": {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "₹",
+      "exchangeRate": 103.42651962041549
+    },
+    "_id": "6500b91a96c492a0fd5684a9",
+    "value": "india",
+    "label": "India",
+    "dialCode": "+91",
+    "code": "IN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/in.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "IST",
+        "name": "Indian Standard Time",
+        "utcOffset": 5.5,
+        "_id": "6500b91a96c492a0fd5684aa"
+      }
+    ],
+    "language": "Hindi",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Jakarta",
+      "coordinates": [
+        -6.16666666,
+        106.816667
+      ]
+    },
+    "currency": {
+      "code": "IDR",
+      "name": "Indonesian rupiah",
+      "symbol": "Rp",
+      "exchangeRate": 19065.98435960491
+    },
+    "_id": "6500b91a96c492a0fd5684ab",
+    "value": "indonesia",
+    "label": "Indonesia",
+    "dialCode": "+62",
+    "code": "ID",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/id.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "WIB",
+        "name": "Western Indonesian Time",
+        "utcOffset": 7,
+        "_id": "6500b91a96c492a0fd5684ac"
+      },
+      {
+        "code": "WIT",
+        "name": "Eastern Indonesian Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd5684ad"
+      },
+      {
+        "code": "WITA",
+        "name": "Central Indonesian Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd5684ae"
+      }
+    ],
+    "language": "Indonesian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tehran",
+      "coordinates": [
+        35.7,
+        51.416667
+      ]
+    },
+    "currency": {
+      "code": "IRR",
+      "name": "Iranian rial",
+      "symbol": "﷼",
+      "exchangeRate": 52371.95820949565
+    },
+    "_id": "6500b91a96c492a0fd5684af",
+    "value": "iran",
+    "label": "Iran",
+    "dialCode": "+98",
+    "code": "IR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ir.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "IRST",
+        "name": "Iran Standard Time",
+        "utcOffset": 3.5,
+        "_id": "6500b91a96c492a0fd5684b0"
+      }
+    ],
+    "language": "Persian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Baghdad",
+      "coordinates": [
+        33.33333333,
+        44.4
+      ]
+    },
+    "currency": {
+      "code": "IQD",
+      "name": "Iraqi dinar",
+      "symbol": "ع.د",
+      "exchangeRate": 1624.3643549396004
+    },
+    "_id": "6500b91a96c492a0fd5684b1",
+    "value": "iraq",
+    "label": "Iraq",
+    "dialCode": "+964",
+    "code": "IQ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/iq.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Arabia Standard Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5684b2"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Dublin",
+      "coordinates": [
+        53.31666666,
+        -6.233333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684b3",
+    "value": "ireland",
+    "label": "Ireland",
+    "dialCode": "+353",
+    "code": "IE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ie.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5684b4"
+      }
+    ],
+    "language": "Irish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Rome",
+      "coordinates": [
+        41.9,
+        12.483333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684b5",
+    "value": "italy",
+    "label": "Italy",
+    "dialCode": "+39",
+    "code": "IT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/it.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5684b6"
+      }
+    ],
+    "language": "Italian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kingston",
+      "coordinates": [
+        18,
+        -76.8
+      ]
+    },
+    "currency": {
+      "code": "JMD",
+      "name": "Jamaican dollar",
+      "symbol": "$",
+      "exchangeRate": 191.4648436366675
+    },
+    "_id": "6500b91a96c492a0fd5684b7",
+    "value": "jamaica",
+    "label": "Jamaica",
+    "dialCode": "+1 876",
+    "code": "JM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/jm.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "EST",
+        "name": "Eastern Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd5684b8"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tokyo",
+      "coordinates": [
+        35.68333333,
+        139.75
+      ]
+    },
+    "currency": {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "symbol": "¥",
+      "exchangeRate": 183.1546678055285
+    },
+    "_id": "6500b91a96c492a0fd5684b9",
+    "value": "japan",
+    "label": "Japan",
+    "dialCode": "+81",
+    "code": "JP",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/jp.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "JST",
+        "name": "Japan Standard Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd5684ba"
+      }
+    ],
+    "language": "Japanese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Amman",
+      "coordinates": [
+        31.95,
+        35.933333
+      ]
+    },
+    "currency": {
+      "code": "JOD",
+      "name": "Jordanian dinar",
+      "symbol": "د.ا",
+      "exchangeRate": 0.878429206235733
+    },
+    "_id": "6500b91a96c492a0fd5684bb",
+    "value": "jordan",
+    "label": "Jordan",
+    "dialCode": "+962",
+    "code": "JO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/jo.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5684bc"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nur-Sultan",
+      "coordinates": [
+        51.16666666,
+        71.416667
+      ]
+    },
+    "currency": {
+      "code": "KZT",
+      "name": "Kazakhstani tenge",
+      "symbol": "₸",
+      "exchangeRate": 583.974721444993
+    },
+    "_id": "6500b91a96c492a0fd5684bd",
+    "value": "kazakhstan",
+    "label": "Kazakhstan",
+    "dialCode": "+7 7",
+    "code": "KZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/kz.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "ALMT",
+        "name": "Alma-Ata Time",
+        "utcOffset": 6,
+        "_id": "6500b91a96c492a0fd5684be"
+      },
+      {
+        "code": "ALMST",
+        "name": "Alma-Ata Summer Time",
+        "utcOffset": 6,
+        "_id": "6500b91a96c492a0fd5684bf"
+      }
+    ],
+    "language": "Kazakh",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nairobi",
+      "coordinates": [
+        -1.28333333,
+        36.816667
+      ]
+    },
+    "currency": {
+      "code": "KES",
+      "name": "Kenyan shilling",
+      "symbol": "Sh",
+      "exchangeRate": 182.45884836464623
+    },
+    "_id": "6500b91a96c492a0fd5684c0",
+    "value": "kenya",
+    "label": "Kenya",
+    "dialCode": "+254",
+    "code": "KE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ke.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5684c1"
+      }
+    ],
+    "language": "Swahili",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tarawa",
+      "coordinates": [
+        1.41666666,
+        173
+      ]
+    },
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.9200978554658987
+    },
+    "_id": "6500b91a96c492a0fd5684c2",
+    "value": "kiribati",
+    "label": "Kiribati",
+    "dialCode": "+686",
+    "code": "KI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ki.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "GILT",
+        "name": "Gilbert Island Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd5684c3"
+      },
+      {
+        "code": "LINT",
+        "name": "Line Islands Time",
+        "utcOffset": 14,
+        "_id": "6500b91a96c492a0fd5684c4"
+      },
+      {
+        "code": "PHOT",
+        "name": "Phoenix Island Time",
+        "utcOffset": 13,
+        "_id": "6500b91a96c492a0fd5684c5"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Pristina",
+      "coordinates": [
+        42.66666666,
+        21.166667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684c6",
+    "value": "kosovo",
+    "label": "Kosovo",
+    "dialCode": "+383",
+    "code": "XK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/xk.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5684c7"
+      }
+    ],
+    "language": "Albanian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kuwait City",
+      "coordinates": [
+        29.36666666,
+        47.966667
+      ]
+    },
+    "currency": {
+      "code": "KWD",
+      "name": "Kuwaiti dinar",
+      "symbol": "د.ك",
+      "exchangeRate": 0.3827318525808335
+    },
+    "_id": "6500b91a96c492a0fd5684c8",
+    "value": "kuwait",
+    "label": "Kuwait",
+    "dialCode": "+965",
+    "code": "KW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/kw.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Arabia Standard Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5684c9"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bishkek",
+      "coordinates": [
+        42.86666666,
+        74.6
+      ]
+    },
+    "currency": {
+      "code": "KGS",
+      "name": "Kyrgyzstani som",
+      "symbol": "с",
+      "exchangeRate": 109.95642460823578
+    },
+    "_id": "6500b91a96c492a0fd5684ca",
+    "value": "kyrgyzstan",
+    "label": "Kyrgyzstan",
+    "dialCode": "+996",
+    "code": "KG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/kg.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "KGT",
+        "name": "Kyrgyzstan Time",
+        "utcOffset": 6,
+        "_id": "6500b91a96c492a0fd5684cb"
+      }
+    ],
+    "language": "Kyrgyz",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Vientiane",
+      "coordinates": [
+        17.96666666,
+        102.6
+      ]
+    },
+    "currency": {
+      "code": "LAK",
+      "name": "Lao kip",
+      "symbol": "₭",
+      "exchangeRate": 24697.03183203954
+    },
+    "_id": "6500b91a96c492a0fd5684cc",
+    "value": "laos",
+    "label": "Laos",
+    "dialCode": "+856",
+    "code": "LA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/la.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "ICT",
+        "name": "Indochina Time",
+        "utcOffset": 7,
+        "_id": "6500b91a96c492a0fd5684cd"
+      }
+    ],
+    "language": "Lao",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Riga",
+      "coordinates": [
+        56.95,
+        24.1
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684ce",
+    "value": "latvia",
+    "label": "Latvia",
+    "dialCode": "+371",
+    "code": "LV",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/lv.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5684cf"
+      }
+    ],
+    "language": "Latvian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Beirut",
+      "coordinates": [
+        33.86666666,
+        35.5
+      ]
+    },
+    "currency": {
+      "code": "LBP",
+      "name": "Lebanese pound",
+      "symbol": "ل.ل",
+      "exchangeRate": 18635.87869380593
+    },
+    "_id": "6500b91a96c492a0fd5684d0",
+    "value": "lebanon",
+    "label": "Lebanon",
+    "dialCode": "+961",
+    "code": "LB",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/lb.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5684d1"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Maseru",
+      "coordinates": [
+        -29.31666666,
+        27.483333
+      ]
+    },
+    "currency": {
+      "code": "LSL",
+      "name": "Lesotho loti",
+      "symbol": "L",
+      "exchangeRate": 23.463799164189915
+    },
+    "_id": "6500b91a96c492a0fd5684d2",
+    "value": "lesotho",
+    "label": "Lesotho",
+    "dialCode": "+266",
+    "code": "LS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ls.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "SAST",
+        "name": "South African Standard Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5684d3"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Monrovia",
+      "coordinates": [
+        6.3,
+        -10.8
+      ]
+    },
+    "currency": {
+      "code": "LRD",
+      "name": "Liberian dollar",
+      "symbol": "$",
+      "exchangeRate": 231.16933916226347
+    },
+    "_id": "6500b91a96c492a0fd5684d4",
+    "value": "liberia",
+    "label": "Liberia",
+    "dialCode": "+231",
+    "code": "LR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/lr.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5684d5"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tripoli",
+      "coordinates": [
+        32.88333333,
+        13.166667
+      ]
+    },
+    "currency": {
+      "code": "LYD",
+      "name": "Libyan dinar",
+      "symbol": "ل.د",
+      "exchangeRate": 6.03015508095242
+    },
+    "_id": "6500b91a96c492a0fd5684d6",
+    "value": "libya",
+    "label": "Libya",
+    "dialCode": "+218",
+    "code": "LY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ly.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5684d7"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Vaduz",
+      "coordinates": [
+        47.13333333,
+        9.516667
+      ]
+    },
+    "currency": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr",
+      "exchangeRate": 1.1125732436324898
+    },
+    "_id": "6500b91a96c492a0fd5684d8",
+    "value": "liechtenstein",
+    "label": "Liechtenstein",
+    "dialCode": "+423",
+    "code": "LI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/li.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5684d9"
+      }
+    ],
+    "language": "German",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Vilnius",
+      "coordinates": [
+        54.68333333,
+        25.283333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684da",
+    "value": "lithuania",
+    "label": "Lithuania",
+    "dialCode": "+370",
+    "code": "LT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/lt.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5684db"
+      }
+    ],
+    "language": "Lithuanian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Luxembourg City",
+      "coordinates": [
+        49.6,
+        6.116667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684dc",
+    "value": "luxembourg",
+    "label": "Luxembourg",
+    "dialCode": "+352",
+    "code": "LU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/lu.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5684dd"
+      }
+    ],
+    "language": "Luxembourgish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Macau",
+      "coordinates": [
+        22.16666666,
+        113.55
+      ]
+    },
+    "currency": {
+      "code": "MOP",
+      "name": "Macanese pataca",
+      "symbol": "P",
+      "exchangeRate": 9.984599833580718
+    },
+    "_id": "6500b91a96c492a0fd5684de",
+    "value": "macau-sar-china",
+    "label": "Macau SAR China",
+    "dialCode": "+853",
+    "code": "MO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mo.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "China Standard Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd5684df"
+      }
+    ],
+    "language": "Chinese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Skopje",
+      "coordinates": [
+        42,
+        21.433333
+      ]
+    },
+    "currency": {
+      "code": "MKD",
+      "name": "Macedonian denar",
+      "symbol": "ден",
+      "exchangeRate": 71.40135711790586
+    },
+    "_id": "6500b91a96c492a0fd5684e0",
+    "value": "macedonia",
+    "label": "Macedonia",
+    "dialCode": "+389",
+    "code": "MK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mk.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5684e1"
+      }
+    ],
+    "language": "Macedonian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Antananarivo",
+      "coordinates": [
+        -18.91666666,
+        47.516667
+      ]
+    },
+    "currency": {
+      "code": "MGA",
+      "name": "Malagasy ariary",
+      "symbol": "Ar",
+      "exchangeRate": 5571.551083408091
+    },
+    "_id": "6500b91a96c492a0fd5684e2",
+    "value": "madagascar",
+    "label": "Madagascar",
+    "dialCode": "+261",
+    "code": "MG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mg.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5684e3"
+      }
+    ],
+    "language": "Malagasy",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Lilongwe",
+      "coordinates": [
+        -13.96666666,
+        33.783333
+      ]
+    },
+    "currency": {
+      "code": "MWK",
+      "name": "Malawian kwacha",
+      "symbol": "MK",
+      "exchangeRate": 1365.308551096174
+    },
+    "_id": "6500b91a96c492a0fd5684e4",
+    "value": "malawi",
+    "label": "Malawi",
+    "dialCode": "+265",
+    "code": "MW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mw.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5684e5"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kuala Lumpur",
+      "coordinates": [
+        3.16666666,
+        101.7
+      ]
+    },
+    "currency": {
+      "code": "MYR",
+      "name": "Malaysian ringgit",
+      "symbol": "RM",
+      "exchangeRate": 5.821313969587283
+    },
+    "_id": "6500b91a96c492a0fd5684e6",
+    "value": "malaysia",
+    "label": "Malaysia",
+    "dialCode": "+60",
+    "code": "MY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/my.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "MYT",
+        "name": "Malaysia Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd5684e7"
+      }
+    ],
+    "language": "Malay",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Malé",
+      "coordinates": [
+        4.16666666,
+        73.5
+      ]
+    },
+    "currency": {
+      "code": "MVR",
+      "name": "Maldivian rufiyaa",
+      "symbol": ".ރ",
+      "exchangeRate": 19.095144479556772
+    },
+    "_id": "6500b91a96c492a0fd5684e8",
+    "value": "maldives",
+    "label": "Maldives",
+    "dialCode": "+960",
+    "code": "MV",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mv.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "MVT",
+        "name": "Maldives Time",
+        "utcOffset": 5,
+        "_id": "6500b91a96c492a0fd5684e9"
+      }
+    ],
+    "language": "Dhivehi",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bamako",
+      "coordinates": [
+        12.65,
+        -8
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91a96c492a0fd5684ea",
+    "value": "mali",
+    "label": "Mali",
+    "dialCode": "+223",
+    "code": "ML",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ml.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5684eb"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Valletta",
+      "coordinates": [
+        35.88333333,
+        14.5
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684ec",
+    "value": "malta",
+    "label": "Malta",
+    "dialCode": "+356",
+    "code": "MT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mt.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5684ed"
+      }
+    ],
+    "language": "Maltese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Majuro",
+      "coordinates": [
+        7.1,
+        171.383333
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd5684ee",
+    "value": "marshall-islands",
+    "label": "Marshall Islands",
+    "dialCode": "+692",
+    "code": "MH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mh.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "MHT",
+        "name": "Marshall Islands Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd5684ef"
+      }
+    ],
+    "language": "Marshallese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Fort-de-France",
+      "coordinates": [
+        14.6,
+        -61.083333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684f0",
+    "value": "martinique",
+    "label": "Martinique",
+    "dialCode": "+596",
+    "code": "MQ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mq.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd5684f1"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nouakchott",
+      "coordinates": [
+        18.06666666,
+        -15.966667
+      ]
+    },
+    "currency": {
+      "code": "MRO",
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM",
+      "exchangeRate": 442.5011796736372
+    },
+    "_id": "6500b91a96c492a0fd5684f2",
+    "value": "mauritania",
+    "label": "Mauritania",
+    "dialCode": "+222",
+    "code": "MR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mr.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5684f3"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Port Louis",
+      "coordinates": [
+        -20.16666666,
+        57.5
+      ]
+    },
+    "currency": {
+      "code": "MUR",
+      "name": "Mauritian rupee",
+      "symbol": "₨",
+      "exchangeRate": 55.591401206249664
+    },
+    "_id": "6500b91a96c492a0fd5684f4",
+    "value": "mauritius",
+    "label": "Mauritius",
+    "dialCode": "+230",
+    "code": "MU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mu.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "MUT",
+        "name": "Mauritius Time",
+        "utcOffset": 4,
+        "_id": "6500b91a96c492a0fd5684f5"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Mamoudzou",
+      "coordinates": [
+        -12.78333333,
+        45.233333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5684f6",
+    "value": "mayotte",
+    "label": "Mayotte",
+    "dialCode": "+262",
+    "code": "YT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/yt.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5684f7"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Mexico City",
+      "coordinates": [
+        19.43333333,
+        -99.133333
+      ]
+    },
+    "currency": {
+      "code": "MXN",
+      "name": "Mexican peso",
+      "symbol": "$",
+      "exchangeRate": 21.16953761203418
+    },
+    "_id": "6500b91a96c492a0fd5684f8",
+    "value": "mexico",
+    "label": "Mexico",
+    "dialCode": "+52",
+    "code": "MX",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mx.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd5684f9"
+      },
+      {
+        "code": "MST",
+        "name": "Mountain Standard Time",
+        "utcOffset": -7,
+        "_id": "6500b91a96c492a0fd5684fa"
+      },
+      {
+        "code": "PST",
+        "name": "Pacific Standard Time",
+        "utcOffset": -8,
+        "_id": "6500b91a96c492a0fd5684fb"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Palikir",
+      "coordinates": [
+        6.91666666,
+        158.15
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd5684fc",
+    "value": "micronesia",
+    "label": "Micronesia",
+    "dialCode": "+691",
+    "code": "FM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/fm.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "CHUT",
+        "name": "Chuuk Time",
+        "utcOffset": 10,
+        "_id": "6500b91a96c492a0fd5684fd"
+      },
+      {
+        "code": "PONT",
+        "name": "Pohnpei Standard Time",
+        "utcOffset": 11,
+        "_id": "6500b91a96c492a0fd5684fe"
+      },
+      {
+        "code": "YAPT",
+        "name": "Yap Time",
+        "utcOffset": 10,
+        "_id": "6500b91a96c492a0fd5684ff"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Chișinău",
+      "coordinates": [
+        47,
+        28.85
+      ]
+    },
+    "currency": {
+      "code": "MDL",
+      "name": "Moldovan leu",
+      "symbol": "L",
+      "exchangeRate": 22.349535035668737
+    },
+    "_id": "6500b91a96c492a0fd568500",
+    "value": "moldova",
+    "label": "Moldova",
+    "dialCode": "+373",
+    "code": "MD",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/md.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568501"
+      }
+    ],
+    "language": "Romanian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Monaco",
+      "coordinates": [
+        43.73333333,
+        7.416667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568502",
+    "value": "monaco",
+    "label": "Monaco",
+    "dialCode": "+377",
+    "code": "MC",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mc.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568503"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ulan Bator",
+      "coordinates": [
+        47.91666666,
+        106.916667
+      ]
+    },
+    "currency": {
+      "code": "MNT",
+      "name": "Mongolian tögrög",
+      "symbol": "₮",
+      "exchangeRate": 4310.050724225611
+    },
+    "_id": "6500b91a96c492a0fd568504",
+    "value": "mongolia",
+    "label": "Mongolia",
+    "dialCode": "+976",
+    "code": "MN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mn.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "CHOT",
+        "name": "Choibalsan Standard Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd568505"
+      },
+      {
+        "code": "CHOST",
+        "name": "Choibalsan Summer Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd568506"
+      },
+      {
+        "code": "ULAT",
+        "name": "Ulaanbaatar Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd568507"
+      },
+      {
+        "code": "ULAST",
+        "name": "Ulaanbaatar Summer Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd568508"
+      }
+    ],
+    "language": "Mongolian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Podgorica",
+      "coordinates": [
+        42.43333333,
+        19.266667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568509",
+    "value": "montenegro",
+    "label": "Montenegro",
+    "dialCode": "+382",
+    "code": "ME",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/me.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd56850a"
+      }
+    ],
+    "language": "Montenegrin",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Plymouth",
+      "coordinates": [
+        16.7,
+        -62.216667
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91a96c492a0fd56850b",
+    "value": "montserrat",
+    "label": "Montserrat",
+    "dialCode": "+1 664",
+    "code": "MS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ms.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56850c"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Rabat",
+      "coordinates": [
+        34.01666666,
+        -6.816667
+      ]
+    },
+    "currency": {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م.",
+      "exchangeRate": 12.719126263956765
+    },
+    "_id": "6500b91a96c492a0fd56850d",
+    "value": "morocco",
+    "label": "Morocco",
+    "dialCode": "+212",
+    "code": "MA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ma.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WET",
+        "name": "Western European Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd56850e"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Maputo",
+      "coordinates": [
+        -25.95,
+        32.583333
+      ]
+    },
+    "currency": {
+      "code": "MZN",
+      "name": "Mozambican metical",
+      "symbol": "MT",
+      "exchangeRate": 78.39829333197166
+    },
+    "_id": "6500b91a96c492a0fd56850f",
+    "value": "mozambique",
+    "label": "Mozambique",
+    "dialCode": "+258",
+    "code": "MZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mz.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568510"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Naypyidaw",
+      "coordinates": [
+        19.75,
+        96.1
+      ]
+    },
+    "currency": {
+      "code": "MMK",
+      "name": "Burmese kyat",
+      "symbol": "Ks",
+      "exchangeRate": 2603.1017002851413
+    },
+    "_id": "6500b91a96c492a0fd568511",
+    "value": "myanmar-burma",
+    "label": "Myanmar (Burma)",
+    "dialCode": "+95",
+    "code": "MM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mm.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "MMT",
+        "name": "Myanmar Time",
+        "utcOffset": 6.5,
+        "_id": "6500b91a96c492a0fd568512"
+      }
+    ],
+    "language": "Burmese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Windhoek",
+      "coordinates": [
+        -22.56666666,
+        17.083333
+      ]
+    },
+    "currency": {
+      "code": "NAD",
+      "name": "Namibian dollar",
+      "symbol": "$",
+      "exchangeRate": 23.463419672523067
+    },
+    "_id": "6500b91a96c492a0fd568513",
+    "value": "namibia",
+    "label": "Namibia",
+    "dialCode": "+264",
+    "code": "NA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/na.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568514"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Yaren",
+      "coordinates": [
+        -0.5477,
+        166.920867
+      ]
+    },
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.9200978554658987
+    },
+    "_id": "6500b91a96c492a0fd568515",
+    "value": "nauru",
+    "label": "Nauru",
+    "dialCode": "+674",
+    "code": "NR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/nr.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "NRT",
+        "name": "Nauru Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd568516"
+      }
+    ],
+    "language": "Nauruan",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kathmandu",
+      "coordinates": [
+        27.71666666,
+        85.316667
+      ]
+    },
+    "currency": {
+      "code": "NPR",
+      "name": "Nepalese rupee",
+      "symbol": "₨",
+      "exchangeRate": 164.97856394318535
+    },
+    "_id": "6500b91a96c492a0fd568517",
+    "value": "nepal",
+    "label": "Nepal",
+    "dialCode": "+977",
+    "code": "NP",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/np.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "NPT",
+        "name": "Nepal Time",
+        "utcOffset": 5.75,
+        "_id": "6500b91a96c492a0fd568518"
+      }
+    ],
+    "language": "Nepali",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Amsterdam",
+      "coordinates": [
+        52.35,
+        4.916667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568519",
+    "value": "netherlands",
+    "label": "Netherlands",
+    "dialCode": "+31",
+    "code": "NL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/nl.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd56851a"
+      }
+    ],
+    "language": "Dutch",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nouméa",
+      "coordinates": [
+        -22.26666666,
+        166.45
+      ]
+    },
+    "currency": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr",
+      "exchangeRate": 139.1028596495911
+    },
+    "_id": "6500b91a96c492a0fd56851b",
+    "value": "new-caledonia",
+    "label": "New Caledonia",
+    "dialCode": "+687",
+    "code": "NC",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/nc.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "NCT",
+        "name": "New Caledonia Time",
+        "utcOffset": 11,
+        "_id": "6500b91a96c492a0fd56851c"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Wellington",
+      "coordinates": [
+        -41.3,
+        174.783333
+      ]
+    },
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$",
+      "exchangeRate": 2.087732206540951
+    },
+    "_id": "6500b91a96c492a0fd56851d",
+    "value": "new-zealand",
+    "label": "New Zealand",
+    "dialCode": "+64",
+    "code": "NZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/nz.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "NZST",
+        "name": "New Zealand Standard Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd56851e"
+      },
+      {
+        "code": "NZDT",
+        "name": "New Zealand Daylight Time",
+        "utcOffset": 13,
+        "_id": "6500b91a96c492a0fd56851f"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Managua",
+      "coordinates": [
+        12.13333333,
+        -86.25
+      ]
+    },
+    "currency": {
+      "code": "NIO",
+      "name": "Nicaraguan córdoba",
+      "symbol": "C$",
+      "exchangeRate": 45.33470352648724
+    },
+    "_id": "6500b91a96c492a0fd568520",
+    "value": "nicaragua",
+    "label": "Nicaragua",
+    "dialCode": "+505",
+    "code": "NI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ni.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "Central Standard Time",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd568521"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Niamey",
+      "coordinates": [
+        13.51666666,
+        2.116667
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91a96c492a0fd568522",
+    "value": "niger",
+    "label": "Niger",
+    "dialCode": "+227",
+    "code": "NE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ne.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568523"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Abuja",
+      "coordinates": [
+        9.08333333,
+        7.533333
+      ]
+    },
+    "currency": {
+      "code": "NGN",
+      "name": "Nigerian naira",
+      "symbol": "₦",
+      "exchangeRate": 962.4683704720668
+    },
+    "_id": "6500b91a96c492a0fd568524",
+    "value": "nigeria",
+    "label": "Nigeria",
+    "dialCode": "+234",
+    "code": "NG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ng.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568525"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Alofi",
+      "coordinates": [
+        -19.01666666,
+        -169.916667
+      ]
+    },
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$",
+      "exchangeRate": 2.087732206540951
+    },
+    "_id": "6500b91a96c492a0fd568526",
+    "value": "niue",
+    "label": "Niue",
+    "dialCode": "+683",
+    "code": "NU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/nu.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "NUT",
+        "name": "Niue Time",
+        "utcOffset": -11,
+        "_id": "6500b91a96c492a0fd568527"
+      }
+    ],
+    "language": "Niuean",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kingston",
+      "coordinates": [
+        -29.05,
+        167.966667
+      ]
+    },
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.9200978554658987
+    },
+    "_id": "6500b91a96c492a0fd568528",
+    "value": "norfolk-island",
+    "label": "Norfolk Island",
+    "dialCode": "+672",
+    "code": "NF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/nf.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "NFT",
+        "name": "Norfolk Time",
+        "utcOffset": 11.5,
+        "_id": "6500b91a96c492a0fd568529"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Pyongyang",
+      "coordinates": [
+        39.01666666,
+        125.75
+      ]
+    },
+    "currency": {
+      "code": "KPW",
+      "name": "North Korean won",
+      "symbol": "₩",
+      "exchangeRate": 1115.6219485446436
+    },
+    "_id": "6500b91a96c492a0fd56852a",
+    "value": "north-korea",
+    "label": "North Korea",
+    "dialCode": "+850",
+    "code": "KP",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/kp.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "KST",
+        "name": "Korea Standard Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd56852b"
+      }
+    ],
+    "language": "Korean",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Saipan",
+      "coordinates": [
+        15.2,
+        145.75
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd56852c",
+    "value": "northern-mariana-islands",
+    "label": "Northern Mariana Islands",
+    "dialCode": "+1 670",
+    "code": "MP",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mp.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "ChST",
+        "name": "Chamorro Standard Time",
+        "utcOffset": 10,
+        "_id": "6500b91a96c492a0fd56852d"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Oslo",
+      "coordinates": [
+        59.91666666,
+        10.75
+      ]
+    },
+    "currency": {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr",
+      "exchangeRate": 13.356479617119602
+    },
+    "_id": "6500b91a96c492a0fd56852e",
+    "value": "norway",
+    "label": "Norway",
+    "dialCode": "+47",
+    "code": "NO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/no.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd56852f"
+      }
+    ],
+    "language": "Norwegian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Muscat",
+      "coordinates": [
+        23.61666666,
+        58.583333
+      ]
+    },
+    "currency": {
+      "code": "OMR",
+      "name": "Omani rial",
+      "symbol": "ر.ع.",
+      "exchangeRate": 0.4771150277539548
+    },
+    "_id": "6500b91a96c492a0fd568530",
+    "value": "oman",
+    "label": "Oman",
+    "dialCode": "+968",
+    "code": "OM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/om.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "GST",
+        "name": "Gulf Standard Time",
+        "utcOffset": 4,
+        "_id": "6500b91a96c492a0fd568531"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Islamabad",
+      "coordinates": [
+        33.68333333,
+        73.05
+      ]
+    },
+    "currency": {
+      "code": "PKR",
+      "name": "Pakistani rupee",
+      "symbol": "₨",
+      "exchangeRate": 365.37346041855494
+    },
+    "_id": "6500b91a96c492a0fd568532",
+    "value": "pakistan",
+    "label": "Pakistan",
+    "dialCode": "+92",
+    "code": "PK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pk.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "PKT",
+        "name": "Pakistan Standard Time",
+        "utcOffset": 5,
+        "_id": "6500b91a96c492a0fd568533"
+      }
+    ],
+    "language": "Urdu",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ngerulmud",
+      "coordinates": [
+        7.5,
+        134.616667
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568534",
+    "value": "palau",
+    "label": "Palau",
+    "dialCode": "+680",
+    "code": "PW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pw.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "PWT",
+        "name": "Palau Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd568535"
+      }
+    ],
+    "language": "Palauan",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ramallah",
+      "coordinates": [
+        31.9,
+        35.2
+      ]
+    },
+    "currency": {
+      "code": "ILS",
+      "name": "Israeli new shekel",
+      "symbol": "₪",
+      "exchangeRate": 4.722375733886982
+    },
+    "_id": "6500b91a96c492a0fd568536",
+    "value": "palestinian-territories",
+    "label": "Palestinian Territories",
+    "dialCode": "+970",
+    "code": "PS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ps.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568537"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Panama City",
+      "coordinates": [
+        8.96666666,
+        -79.533333
+      ]
+    },
+    "currency": {
+      "code": "PAB",
+      "name": "Panamanian balboa",
+      "symbol": "B/.",
+      "exchangeRate": 1.2395172680313666
+    },
+    "_id": "6500b91a96c492a0fd568538",
+    "value": "panama",
+    "label": "Panama",
+    "dialCode": "+507",
+    "code": "PA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pa.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "EST",
+        "name": "Eastern Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd568539"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Port Moresby",
+      "coordinates": [
+        -9.45,
+        147.183333
+      ]
+    },
+    "currency": {
+      "code": "PGK",
+      "name": "Papua New Guinean kina",
+      "symbol": "K",
+      "exchangeRate": 4.498763460639055
+    },
+    "_id": "6500b91a96c492a0fd56853a",
+    "value": "papua-new-guinea",
+    "label": "Papua New Guinea",
+    "dialCode": "+675",
+    "code": "PG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pg.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "PGT",
+        "name": "Papua New Guinea Time",
+        "utcOffset": 10,
+        "_id": "6500b91a96c492a0fd56853b"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Asunción",
+      "coordinates": [
+        -25.26666666,
+        -57.666667
+      ]
+    },
+    "currency": {
+      "code": "PYG",
+      "name": "Paraguayan guaraní",
+      "symbol": "₲",
+      "exchangeRate": 9000.979131439899
+    },
+    "_id": "6500b91a96c492a0fd56853c",
+    "value": "paraguay",
+    "label": "Paraguay",
+    "dialCode": "+595",
+    "code": "PY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/py.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "PYT",
+        "name": "Paraguay Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56853d"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Lima",
+      "coordinates": [
+        -12.05,
+        -77.05
+      ]
+    },
+    "currency": {
+      "code": "PEN",
+      "name": "Peruvian sol",
+      "symbol": "S/.",
+      "exchangeRate": 4.582554524364642
+    },
+    "_id": "6500b91a96c492a0fd56853e",
+    "value": "peru",
+    "label": "Peru",
+    "dialCode": "+51",
+    "code": "PE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pe.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "PET",
+        "name": "Peru Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd56853f"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Manila",
+      "coordinates": [
+        14.6,
+        120.966667
+      ]
+    },
+    "currency": {
+      "code": "PHP",
+      "name": "Philippine peso",
+      "symbol": "₱",
+      "exchangeRate": 70.29253236994286
+    },
+    "_id": "6500b91a96c492a0fd568540",
+    "value": "philippines",
+    "label": "Philippines",
+    "dialCode": "+63",
+    "code": "PH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ph.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "PHT",
+        "name": "Philippine Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd568541"
+      }
+    ],
+    "language": "Filipino",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Adamstown",
+      "coordinates": [
+        -25.06666666,
+        -130.083333
+      ]
+    },
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$",
+      "exchangeRate": 2.087732206540951
+    },
+    "_id": "6500b91a96c492a0fd568542",
+    "value": "pitcairn-islands",
+    "label": "Pitcairn Islands",
+    "dialCode": "+64",
+    "code": "PN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pn.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "PST",
+        "name": "Pacific Standard Time",
+        "utcOffset": -8,
+        "_id": "6500b91a96c492a0fd568543"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Warsaw",
+      "coordinates": [
+        52.25,
+        21
+      ]
+    },
+    "currency": {
+      "code": "PLN",
+      "name": "Polish złoty",
+      "symbol": "zł",
+      "exchangeRate": 5.4065121698451515
+    },
+    "_id": "6500b91a96c492a0fd568544",
+    "value": "poland",
+    "label": "Poland",
+    "dialCode": "+48",
+    "code": "PL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pl.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568545"
+      }
+    ],
+    "language": "Polish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Lisbon",
+      "coordinates": [
+        38.71666666,
+        -9.133333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568546",
+    "value": "portugal",
+    "label": "Portugal",
+    "dialCode": "+351",
+    "code": "PT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pt.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "WET",
+        "name": "Western European Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568547"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "San Juan",
+      "coordinates": [
+        18.46666666,
+        -66.116667
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd568548",
+    "value": "puerto-rico",
+    "label": "Puerto Rico",
+    "dialCode": "+1 787",
+    "code": "PR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pr.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568549"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Doha",
+      "coordinates": [
+        25.28333333,
+        51.533333
+      ]
+    },
+    "currency": {
+      "code": "QAR",
+      "name": "Qatari riyal",
+      "symbol": "ر.ق",
+      "exchangeRate": 4.5130588072820625
+    },
+    "_id": "6500b91a96c492a0fd56854a",
+    "value": "qatar",
+    "label": "Qatar",
+    "dialCode": "+974",
+    "code": "QA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/qa.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Arabia Standard Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd56854b"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Saint-Denis",
+      "coordinates": [
+        -20.86666666,
+        55.45
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd56854c",
+    "value": "reunion",
+    "label": "Réunion",
+    "dialCode": "+262",
+    "code": "RE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/re.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "RET",
+        "name": "Réunion Time",
+        "utcOffset": 4,
+        "_id": "6500b91a96c492a0fd56854d"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bucharest",
+      "coordinates": [
+        44.43333333,
+        26.1
+      ]
+    },
+    "currency": {
+      "code": "RON",
+      "name": "Romanian leu",
+      "symbol": "lei",
+      "exchangeRate": 5.768265212451505
+    },
+    "_id": "6500b91a96c492a0fd56854e",
+    "value": "romania",
+    "label": "Romania",
+    "dialCode": "+40",
+    "code": "RO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ro.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd56854f"
+      }
+    ],
+    "language": "Romanian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Moscow",
+      "coordinates": [
+        55.75,
+        37.6
+      ]
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Russian ruble",
+      "symbol": "₽",
+      "exchangeRate": 120.85244621256872
+    },
+    "_id": "6500b91a96c492a0fd568550",
+    "value": "russia",
+    "label": "Russia",
+    "dialCode": "+7",
+    "code": "RU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ru.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "MSK",
+        "name": "Moscow Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd568551"
+      },
+      {
+        "code": "SAMT",
+        "name": "Samara Time",
+        "utcOffset": 4,
+        "_id": "6500b91a96c492a0fd568552"
+      },
+      {
+        "code": "YEKT",
+        "name": "Yekaterinburg Time",
+        "utcOffset": 5,
+        "_id": "6500b91a96c492a0fd568553"
+      },
+      {
+        "code": "OMST",
+        "name": "Omsk Time",
+        "utcOffset": 6,
+        "_id": "6500b91a96c492a0fd568554"
+      },
+      {
+        "code": "KRAT",
+        "name": "Krasnoyarsk Time",
+        "utcOffset": 7,
+        "_id": "6500b91a96c492a0fd568555"
+      },
+      {
+        "code": "IRKT",
+        "name": "Irkutsk Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd568556"
+      },
+      {
+        "code": "YAKT",
+        "name": "Yakutsk Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd568557"
+      },
+      {
+        "code": "VLAT",
+        "name": "Vladivostok Time",
+        "utcOffset": 10,
+        "_id": "6500b91a96c492a0fd568558"
+      },
+      {
+        "code": "MAGT",
+        "name": "Magadan Time",
+        "utcOffset": 11,
+        "_id": "6500b91a96c492a0fd568559"
+      },
+      {
+        "code": "PETT",
+        "name": "Kamchatka Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd56855a"
+      }
+    ],
+    "language": "Russian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kigali",
+      "coordinates": [
+        -1.95,
+        30.05
+      ]
+    },
+    "currency": {
+      "code": "RWF",
+      "name": "Rwandan franc",
+      "symbol": "Fr",
+      "exchangeRate": 1490.4983874505472
+    },
+    "_id": "6500b91a96c492a0fd56855b",
+    "value": "rwanda",
+    "label": "Rwanda",
+    "dialCode": "+250",
+    "code": "RW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/rw.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd56855c"
+      }
+    ],
+    "language": "Kinyarwanda",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Apia",
+      "coordinates": [
+        -13.81666666,
+        -171.766667
+      ]
+    },
+    "currency": {
+      "code": "WST",
+      "name": "Samoan tālā",
+      "symbol": "T",
+      "exchangeRate": 3.452507256182407
+    },
+    "_id": "6500b91a96c492a0fd56855d",
+    "value": "samoa",
+    "label": "Samoa",
+    "dialCode": "+685",
+    "code": "WS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ws.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "WST",
+        "name": "West Samoa Time",
+        "utcOffset": 13,
+        "_id": "6500b91a96c492a0fd56855e"
+      }
+    ],
+    "language": "Samoan",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "City of San Marino",
+      "coordinates": [
+        43.93333333,
+        12.416667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd56855f",
+    "value": "san-marino",
+    "label": "San Marino",
+    "dialCode": "+378",
+    "code": "SM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sm.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568560"
+      }
+    ],
+    "language": "Italian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "São Tomé",
+      "coordinates": [
+        0.33333333,
+        6.733333
+      ]
+    },
+    "currency": {
+      "code": "STD",
+      "name": "São Tomé & Príncipe dobra",
+      "symbol": "Db",
+      "exchangeRate": 25655.141216160544
+    },
+    "_id": "6500b91a96c492a0fd568561",
+    "value": "sao-tome-principe",
+    "label": "São Tomé & Príncipe",
+    "dialCode": "+239",
+    "code": "ST",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/st.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568562"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Riyadh",
+      "coordinates": [
+        24.65,
+        46.7
+      ]
+    },
+    "currency": {
+      "code": "SAR",
+      "name": "Saudi riyal",
+      "symbol": "ر.س",
+      "exchangeRate": 4.648950479238788
+    },
+    "_id": "6500b91a96c492a0fd568563",
+    "value": "saudi-arabia",
+    "label": "Saudi Arabia",
+    "dialCode": "+966",
+    "code": "SA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sa.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Arabia Standard Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd568564"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Dakar",
+      "coordinates": [
+        14.73333333,
+        -17.633333
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91a96c492a0fd568565",
+    "value": "senegal",
+    "label": "Senegal",
+    "dialCode": "+221",
+    "code": "SN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sn.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WAT",
+        "name": "West Africa Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568566"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Belgrade",
+      "coordinates": [
+        44.83333333,
+        20.5
+      ]
+    },
+    "currency": {
+      "code": "RSD",
+      "name": "Serbian dinar",
+      "symbol": "дин.",
+      "exchangeRate": 136.1008194466849
+    },
+    "_id": "6500b91a96c492a0fd568567",
+    "value": "serbia",
+    "label": "Serbia",
+    "dialCode": "+381",
+    "code": "RS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/rs.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568568"
+      }
+    ],
+    "language": "Serbian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Victoria",
+      "coordinates": [
+        -4.61666666,
+        55.45
+      ]
+    },
+    "currency": {
+      "code": "SCR",
+      "name": "Seychellois rupee",
+      "symbol": "₨",
+      "exchangeRate": 16.010651298221266
+    },
+    "_id": "6500b91a96c492a0fd568569",
+    "value": "seychelles",
+    "label": "Seychelles",
+    "dialCode": "+248",
+    "code": "SC",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sc.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "SCT",
+        "name": "Seychelles Time",
+        "utcOffset": 4,
+        "_id": "6500b91a96c492a0fd56856a"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Freetown",
+      "coordinates": [
+        8.48333333,
+        -13.233333
+      ]
+    },
+    "currency": {
+      "code": "SLL",
+      "name": "Sierra Leonean leone",
+      "symbol": "Le",
+      "exchangeRate": 24480.11939829101
+    },
+    "_id": "6500b91a96c492a0fd56856b",
+    "value": "sierra-leone",
+    "label": "Sierra Leone",
+    "dialCode": "+232",
+    "code": "SL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sl.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd56856c"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Singapore",
+      "coordinates": [
+        1.28333333,
+        103.85
+      ]
+    },
+    "currency": {
+      "code": "SGD",
+      "name": "Singapore dollar",
+      "symbol": "$",
+      "exchangeRate": 1.6911761804569918
+    },
+    "_id": "6500b91a96c492a0fd56856d",
+    "value": "singapore",
+    "label": "Singapore",
+    "dialCode": "+65",
+    "code": "SG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sg.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "SGT",
+        "name": "Singapore Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd56856e"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Philipsburg",
+      "coordinates": [
+        18.01666666,
+        -63.033333
+      ]
+    },
+    "currency": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ",
+      "exchangeRate": 2.2340268243742742
+    },
+    "_id": "6500b91a96c492a0fd56856f",
+    "value": "sint-maarten",
+    "label": "Sint Maarten",
+    "dialCode": "+1 721",
+    "code": "SX",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sx.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568570"
+      }
+    ],
+    "language": "Dutch",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bratislava",
+      "coordinates": [
+        48.15,
+        17.116667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568571",
+    "value": "slovakia",
+    "label": "Slovakia",
+    "dialCode": "+421",
+    "code": "SK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sk.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568572"
+      }
+    ],
+    "language": "Slovak",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ljubljana",
+      "coordinates": [
+        46.05,
+        14.516667
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568573",
+    "value": "slovenia",
+    "label": "Slovenia",
+    "dialCode": "+386",
+    "code": "SI",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/si.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568574"
+      }
+    ],
+    "language": "Slovenian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Honiara",
+      "coordinates": [
+        -9.43333333,
+        159.95
+      ]
+    },
+    "currency": {
+      "code": "SBD",
+      "name": "Solomon Islands dollar",
+      "symbol": "$",
+      "exchangeRate": 10.435163210429872
+    },
+    "_id": "6500b91a96c492a0fd568575",
+    "value": "solomon-islands",
+    "label": "Solomon Islands",
+    "dialCode": "+677",
+    "code": "SB",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sb.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "SBT",
+        "name": "Solomon Islands Time",
+        "utcOffset": 11,
+        "_id": "6500b91a96c492a0fd568576"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Mogadishu",
+      "coordinates": [
+        2.06666666,
+        45.333333
+      ]
+    },
+    "currency": {
+      "code": "SOS",
+      "name": "Somali shilling",
+      "symbol": "Sh",
+      "exchangeRate": 705.8840078497909
+    },
+    "_id": "6500b91a96c492a0fd568577",
+    "value": "somalia",
+    "label": "Somalia",
+    "dialCode": "+252",
+    "code": "SO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/so.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd568578"
+      }
+    ],
+    "language": "Somali",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Pretoria",
+      "coordinates": [
+        -25.7,
+        28.216667
+      ]
+    },
+    "currency": {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R",
+      "exchangeRate": 23.46311097287969
+    },
+    "_id": "6500b91a96c492a0fd568579",
+    "value": "south-africa",
+    "label": "South Africa",
+    "dialCode": "+27",
+    "code": "ZA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/za.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "SAST",
+        "name": "South Africa Standard Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd56857a"
+      }
+    ],
+    "language": "Afrikaans",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Seoul",
+      "coordinates": [
+        37.55,
+        126.983333
+      ]
+    },
+    "currency": {
+      "code": "KRW",
+      "name": "South Korean won",
+      "symbol": "₩",
+      "exchangeRate": 1644.4194879995916
+    },
+    "_id": "6500b91a96c492a0fd56857b",
+    "value": "south-korea",
+    "label": "South Korea",
+    "dialCode": "+82",
+    "code": "KR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/kr.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "KST",
+        "name": "Korea Standard Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd56857c"
+      }
+    ],
+    "language": "Korean",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Juba",
+      "coordinates": [
+        4.85,
+        31.616667
+      ]
+    },
+    "currency": {
+      "code": "SSP",
+      "name": "South Sudanese pound",
+      "symbol": "£",
+      "exchangeRate": 744.9394089910512
+    },
+    "_id": "6500b91a96c492a0fd56857d",
+    "value": "south-sudan",
+    "label": "South Sudan",
+    "dialCode": "+211",
+    "code": "SS",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ss.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd56857e"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Madrid",
+      "coordinates": [
+        40.4,
+        -3.683333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd56857f",
+    "value": "spain",
+    "label": "Spain",
+    "dialCode": "+34",
+    "code": "ES",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/es.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568580"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Colombo",
+      "coordinates": [
+        6.91666666,
+        79.833333
+      ]
+    },
+    "currency": {
+      "code": "LKR",
+      "name": "Sri Lankan rupee",
+      "symbol": "Rs",
+      "exchangeRate": 401.47610537102565
+    },
+    "_id": "6500b91a96c492a0fd568581",
+    "value": "sri-lanka",
+    "label": "Sri Lanka",
+    "dialCode": "+94",
+    "code": "LK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/lk.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "IST",
+        "name": "Indian Standard Time",
+        "utcOffset": 5.5,
+        "_id": "6500b91a96c492a0fd568582"
+      }
+    ],
+    "language": "Sinhala",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Gustavia",
+      "coordinates": [
+        17.88333333,
+        -62.85
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd568583",
+    "value": "st-barthelemy",
+    "label": "St. Barthélemy",
+    "dialCode": "+590",
+    "code": "BL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/bl.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568584"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Jamestown",
+      "coordinates": [
+        -15.93333333,
+        -5.716667
+      ]
+    },
+    "currency": {
+      "code": "SHP",
+      "name": "Saint Helena pound",
+      "symbol": "£",
+      "exchangeRate": 1.508160231362259
+    },
+    "_id": "6500b91a96c492a0fd568585",
+    "value": "st-helena",
+    "label": "St. Helena",
+    "dialCode": "+290",
+    "code": "SH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sh.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd568586"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Basseterre",
+      "coordinates": [
+        17.3,
+        -62.716667
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91a96c492a0fd568587",
+    "value": "st-kitts-nevis",
+    "label": "St. Kitts & Nevis",
+    "dialCode": "+1 869",
+    "code": "KN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/kn.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568588"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Castries",
+      "coordinates": [
+        14,
+        -61
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91a96c492a0fd568589",
+    "value": "st-lucia",
+    "label": "St. Lucia",
+    "dialCode": "+1 758",
+    "code": "LC",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/lc.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56858a"
+      }
+    ],  
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Marigot",
+      "coordinates": [
+        18.06666666,
+        -63.083333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd56858b",
+    "value": "st-martin",
+    "label": "St. Martin",
+    "dialCode": "+590",
+    "code": "MF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/mf.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd56858c"
+      }
+    ],  
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Saint-Pierre",
+      "coordinates": [
+        46.76666666,
+        -56.183333
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd56858d",
+    "value": "st-pierre-miquelon",
+    "label": "St. Pierre & Miquelon",
+    "dialCode": "+508",
+    "code": "PM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/pm.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "PMST",
+        "name": "Saint Pierre & Miquelon Standard Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd56858e"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kingstown",
+      "coordinates": [
+        13.13333333,
+        -61.216667
+      ]
+    },
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$",
+      "exchangeRate": 3.349810080087829
+    },
+    "_id": "6500b91a96c492a0fd56858f",
+    "value": "st-vincent-grenadines",
+    "label": "St. Vincent & Grenadines",
+    "dialCode": "+1 784",
+    "code": "VC",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/vc.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd568590"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Khartoum",
+      "coordinates": [
+        15.6,
+        32.533333
+      ]
+    },
+    "currency": {
+      "code": "SDG",
+      "name": "Sudanese pound",
+      "symbol": "£",
+      "exchangeRate": 744.5992695655807
+    },
+    "_id": "6500b91a96c492a0fd568591",
+    "value": "sudan",
+    "label": "Sudan",
+    "dialCode": "+249",
+    "code": "SD",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sd.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568592"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Paramaribo",
+      "coordinates": [
+        5.83333333,
+        -55.166667
+      ]
+    },
+    "currency": {
+      "code": "SRD",
+      "name": "Surinamese dollar",
+      "symbol": "$",
+      "exchangeRate": 47.61104425197782
+    },
+    "_id": "6500b91a96c492a0fd568593",
+    "value": "suriname",
+    "label": "Suriname",
+    "dialCode": "+597",
+    "code": "SR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sr.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "SRT",
+        "name": "Suriname Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd568594"
+      }
+    ],
+    "language": "Dutch",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Longyearbyen",
+      "coordinates": [
+        78.21666666,
+        15.633333
+      ]
+    },
+    "currency": {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr",
+      "exchangeRate": 13.356479617119602
+    },
+    "_id": "6500b91a96c492a0fd568595",
+    "value": "svalbard-jan-mayen",
+    "label": "Svalbard & Jan Mayen",
+    "dialCode": "+47",
+    "code": "SJ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sj.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd568596"
+      }
+    ],
+    "language": "Norwegian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Lobamba",
+      "coordinates": [
+        -26.46666666,
+        31.2
+      ]
+    },
+    "currency": {
+      "code": "SZL",
+      "name": "Swazi lilangeni",
+      "symbol": "L",
+      "exchangeRate": 23.463449846172416
+    },
+    "_id": "6500b91a96c492a0fd568597",
+    "value": "swaziland",
+    "label": "Swaziland",
+    "dialCode": "+268",
+    "code": "SZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sz.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "SAST",
+        "name": "South Africa Standard Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd568598"
+      }
+    ],
+    "language": "Swati",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Stockholm",
+      "coordinates": [
+        59.33333333,
+        18.05
+      ]
+    },
+    "currency": {
+      "code": "SEK",
+      "name": "Swedish krona",
+      "symbol": "kr",
+      "exchangeRate": 13.832444564623254
+    },
+    "_id": "6500b91a96c492a0fd568599",
+    "value": "sweden",
+    "label": "Sweden",
+    "dialCode": "+46",
+    "code": "SE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/se.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd56859a"
+      }
+    ],
+    "language": "Swedish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bern",
+      "coordinates": [
+        46.91666666,
+        7.466667
+      ]
+    },
+    "currency": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr",
+      "exchangeRate": 1.1125732436324898
+    },
+    "_id": "6500b91a96c492a0fd56859b",
+    "value": "switzerland",
+    "label": "Switzerland",
+    "dialCode": "+41",
+    "code": "CH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ch.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd56859c"
+      }
+    ],
+    "language": "German",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Damascus",
+      "coordinates": [
+        33.5,
+        36.3
+      ]
+    },
+    "currency": {
+      "code": "SYP",
+      "name": "Syrian pound",
+      "symbol": "£",
+      "exchangeRate": 16115.696753663487
+    },
+    "_id": "6500b91a96c492a0fd56859d",
+    "value": "syria",
+    "label": "Syria",
+    "dialCode": "+963",
+    "code": "SY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/sy.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd56859e"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Taipei",
+      "coordinates": [
+        25.03333333,
+        121.516667
+      ]
+    },
+    "currency": {
+      "code": "TWD",
+      "name": "New Taiwan dollar",
+      "symbol": "$",
+      "exchangeRate": 39.690389344523894
+    },
+    "_id": "6500b91a96c492a0fd56859f",
+    "value": "taiwan",
+    "label": "Taiwan",
+    "dialCode": "+886",
+    "code": "TW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tw.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "CST",
+        "name": "China Standard Time",
+        "utcOffset": 8,
+        "_id": "6500b91a96c492a0fd5685a0"
+      }
+    ],
+    "language": "Chinese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Dushanbe",
+      "coordinates": [
+        38.55,
+        68.766667
+      ]
+    },
+    "currency": {
+      "code": "TJS",
+      "name": "Tajikistani somoni",
+      "symbol": "ЅМ",
+      "exchangeRate": 13.60433757814685
+    },
+    "_id": "6500b91a96c492a0fd5685a1",
+    "value": "tajikistan",
+    "label": "Tajikistan",
+    "dialCode": "+992",
+    "code": "TJ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tj.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "TJT",
+        "name": "Tajikistan Time",
+        "utcOffset": 5,
+        "_id": "6500b91a96c492a0fd5685a2"
+      }
+    ],
+    "language": "Tajik",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Dodoma",
+      "coordinates": [
+        -6.16666666,
+        35.75
+      ]
+    },
+    "currency": {
+      "code": "TZS",
+      "name": "Tanzanian shilling",
+      "symbol": "Sh",
+      "exchangeRate": 3104.9470905058615
+    },
+    "_id": "6500b91a96c492a0fd5685a3",
+    "value": "tanzania",
+    "label": "Tanzania",
+    "dialCode": "+255",
+    "code": "TZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tz.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5685a4"
+      }
+    ],
+    "language": "Swahili",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Bangkok",
+      "coordinates": [
+        13.75,
+        100.516667
+      ]
+    },
+    "currency": {
+      "code": "THB",
+      "name": "Thai baht",
+      "symbol": "฿",
+      "exchangeRate": 44.6837952416155
+    },
+    "_id": "6500b91a96c492a0fd5685a5",
+    "value": "thailand",
+    "label": "Thailand",
+    "dialCode": "+66",
+    "code": "TH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/th.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "ICT",
+        "name": "Indochina Time",
+        "utcOffset": 7,
+        "_id": "6500b91a96c492a0fd5685a6"
+      }
+    ],
+    "language": "Thai",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Dili",
+      "coordinates": [
+        -8.58333333,
+        125.6
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd5685a7",
+    "value": "timor-leste",
+    "label": "Timor-Leste",
+    "dialCode": "+670",
+    "code": "TL",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tl.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "TLT",
+        "name": "Timor Leste Time",
+        "utcOffset": 9,
+        "_id": "6500b91a96c492a0fd5685a8"
+      }
+    ],
+    "language": "Portuguese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Lomé",
+      "coordinates": [
+        6.11666666,
+        1.216667
+      ]
+    },
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr",
+      "exchangeRate": 760.427473571945
+    },
+    "_id": "6500b91a96c492a0fd5685a9",
+    "value": "togo",
+    "label": "Togo",
+    "dialCode": "+228",
+    "code": "TG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tg.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5685aa"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Fakaofo",
+      "coordinates": [
+        -9.36666666,
+        -171.233333
+      ]
+    },
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$",
+      "exchangeRate": 2.087732206540951
+    },
+    "_id": "6500b91a96c492a0fd5685ab",
+    "value": "tokelau",
+    "label": "Tokelau",
+    "dialCode": "+690",
+    "code": "TK",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tk.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "TKT",
+        "name": "Tokelau Time",
+        "utcOffset": 13,
+        "_id": "6500b91a96c492a0fd5685ac"
+      }
+    ],
+    "language": "Tokelauan",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Nukuʻalofa",
+      "coordinates": [
+        -21.13333333,
+        -175.2
+      ]
+    },
+    "currency": {
+      "code": "TOP",
+      "name": "Tongan paʻanga",
+      "symbol": "T$",
+      "exchangeRate": 2.9658736025828647
+    },
+    "_id": "6500b91a96c492a0fd5685ad",
+    "value": "tonga",
+    "label": "Tonga",
+    "dialCode": "+676",
+    "code": "TO",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/to.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "TOT",
+        "name": "Tonga Time",
+        "utcOffset": 13,
+        "_id": "6500b91a96c492a0fd5685ae"
+      }
+    ],
+    "language": "Tongan",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Port of Spain",
+      "coordinates": [
+        10.65,
+        -61.516667
+      ]
+    },
+    "currency": {
+      "code": "TTD",
+      "name": "Trinidad & Tobago dollar",
+      "symbol": "$",
+      "exchangeRate": 8.404389569665735
+    },
+    "_id": "6500b91a96c492a0fd5685af",
+    "value": "trinidad-tobago",
+    "label": "Trinidad & Tobago",
+    "dialCode": "+1 868",
+    "code": "TT",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tt.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Atlantic Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd5685b0"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tunis",
+      "coordinates": [
+        36.8,
+        10.183333
+      ]
+    },
+    "currency": {
+      "code": "TND",
+      "name": "Tunisian dinar",
+      "symbol": "د.ت",
+      "exchangeRate": 3.9143602199891143
+    },
+    "_id": "6500b91a96c492a0fd5685b1",
+    "value": "tunisia",
+    "label": "Tunisia",
+    "dialCode": "+216",
+    "code": "TN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tn.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5685b2"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ankara",
+      "coordinates": [
+        39.93333333,
+        32.866667
+      ]
+    },
+    "currency": {
+      "code": "TRY",
+      "name": "Turkish lira",
+      "symbol": "₺",
+      "exchangeRate": 33.49438015780819
+    },
+    "_id": "6500b91a96c492a0fd5685b3",
+    "value": "turkey",
+    "label": "Turkey",
+    "dialCode": "+90",
+    "code": "TR",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tr.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "TRT",
+        "name": "Turkey Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5685b4"
+      }
+    ],
+    "language": "Turkish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Ashgabat",
+      "coordinates": [
+        37.95,
+        58.383333
+      ]
+    },
+    "currency": {
+      "code": "TMT",
+      "name": "Turkmenistan manat",
+      "symbol": "m",
+      "exchangeRate": 4.350644497544909
+    },
+    "_id": "6500b91a96c492a0fd5685b5",
+    "value": "turkmenistan",
+    "label": "Turkmenistan",
+    "dialCode": "+993",
+    "code": "TM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tm.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "TMT",
+        "name": "Turkmenistan Time",
+        "utcOffset": 5,
+        "_id": "6500b91a96c492a0fd5685b6"
+      }
+    ],
+    "language": "Turkmen",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Cockburn Town",
+      "coordinates": [
+        21.46666666,
+        -71.133333
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd5685b7",
+    "value": "turks-caicos-islands",
+    "label": "Turks & Caicos Islands",
+    "dialCode": "+1 649",
+    "code": "TC",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tc.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "EST",
+        "name": "Eastern Standard Time",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd5685b8"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Funafuti",
+      "coordinates": [
+        -8.51666666,
+        179.216667
+      ]
+    },
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$",
+      "exchangeRate": 1.9200978554658987
+    },
+    "_id": "6500b91a96c492a0fd5685b9",
+    "value": "tuvalu",
+    "label": "Tuvalu",
+    "dialCode": "+688",
+    "code": "TV",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/tv.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "TVT",
+        "name": "Tuvalu Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd5685ba"
+      }
+    ],
+    "language": "Tuvaluan",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kampala",
+      "coordinates": [
+        0.31666666,
+        32.55
+      ]
+    },
+    "currency": {
+      "code": "UGX",
+      "name": "Ugandan shilling",
+      "symbol": "Sh",
+      "exchangeRate": 4633.708690823381
+    },
+    "_id": "6500b91a96c492a0fd5685bb",
+    "value": "uganda",
+    "label": "Uganda",
+    "dialCode": "+256",
+    "code": "UG",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ug.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "EAT",
+        "name": "East Africa Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5685bc"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Kyiv",
+      "coordinates": [
+        50.45,
+        30.523333
+      ]
+    },
+    "currency": {
+      "code": "UAH",
+      "name": "Ukrainian hryvnia",
+      "symbol": "₴",
+      "exchangeRate": 45.78220079635224
+    },
+    "_id": "6500b91a96c492a0fd5685bd",
+    "value": "ukraine",
+    "label": "Ukraine",
+    "dialCode": "+380",
+    "code": "UA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ua.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "EET",
+        "name": "Eastern European Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5685be"
+      }
+    ],
+    "language": "Ukrainian",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Abu Dhabi",
+      "coordinates": [
+        24.46666666,
+        54.366667
+      ]
+    },
+    "currency": {
+      "code": "AED",
+      "name": "United Arab Emirates dirham",
+      "symbol": "د.إ",
+      "exchangeRate": 4.552556114283858
+    },
+    "_id": "6500b91a96c492a0fd5685bf",
+    "value": "united-arab-emirates",
+    "label": "United Arab Emirates",
+    "dialCode": "+971",
+    "code": "AE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ae.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "GST",
+        "name": "Gulf Standard Time",
+        "utcOffset": 4,
+        "_id": "6500b91a96c492a0fd5685c0"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "London",
+      "coordinates": [
+        51.5,
+        -0.083333
+      ]
+    },
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£",
+      "exchangeRate": 1
+    },
+    "_id": "6500b91a96c492a0fd5685c1",
+    "value": "united-kingdom",
+    "label": "United Kingdom",
+    "dialCode": "+44",
+    "code": "GB",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/gb.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "GMT",
+        "name": "Greenwich Mean Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5685c2"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Washington, D.C.",
+      "coordinates": [
+        38.883333,
+        -77
+      ]
+    },
+    "currency": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "exchangeRate": 1.2394998601567406
+    },
+    "_id": "6500b91a96c492a0fd5685c3",
+    "value": "united-states",
+    "label": "United States",
+    "dialCode": "+1",
+    "code": "US",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/us.png",
+    "continent": "North America",
+    "timeZones": [
+      {
+        "code": "HST",
+        "name": "Hawaii–Aleutian Time Zone",
+        "utcOffset": -10,
+        "_id": "6500b91a96c492a0fd5685c4"
+      },
+      {
+        "code": "AKST",
+        "name": "Alaska Time Zone",
+        "utcOffset": -9,
+        "_id": "6500b91a96c492a0fd5685c5"
+      },
+      {
+        "code": "PST",
+        "name": "Pacific Time Zone",
+        "utcOffset": -8,
+        "_id": "6500b91a96c492a0fd5685c6"
+      },
+      {
+        "code": "MST",
+        "name": "Mountain Time Zone",
+        "utcOffset": -7,
+        "_id": "6500b91a96c492a0fd5685c7"
+      },
+      {
+        "code": "CST",
+        "name": "Central Time Zone",
+        "utcOffset": -6,
+        "_id": "6500b91a96c492a0fd5685c8"
+      },
+      {
+        "code": "EST",
+        "name": "Eastern Time Zone",
+        "utcOffset": -5,
+        "_id": "6500b91a96c492a0fd5685c9"
+      },
+      {
+        "code": "AST",
+        "name": "Atlantic Time Zone",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd5685ca"
+      },
+      {
+        "code": "NST",
+        "name": "Newfoundland Time Zone",
+        "utcOffset": -3.5,
+        "_id": "6500b91a96c492a0fd5685cb"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Montevideo",
+      "coordinates": [
+        -34.85,
+        -56.166667
+      ]
+    },
+    "currency": {
+      "code": "UYU",
+      "name": "Uruguayan peso",
+      "symbol": "$",
+      "exchangeRate": 47.193440944945856
+    },
+    "_id": "6500b91a96c492a0fd5685cc",
+    "value": "uruguay",
+    "label": "Uruguay",
+    "dialCode": "+598",
+    "code": "UY",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/uy.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "UYT",
+        "name": "Uruguay Standard Time",
+        "utcOffset": -3,
+        "_id": "6500b91a96c492a0fd5685cd"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Tashkent",
+      "coordinates": [
+        41.31666666,
+        69.25
+      ]
+    },
+    "currency": {
+      "code": "UZS",
+      "name": "Uzbekistani soʻm",
+      "symbol": "soʻm",
+      "exchangeRate": 15097.106062698522
+    },
+    "_id": "6500b91a96c492a0fd5685ce",
+    "value": "uzbekistan",
+    "label": "Uzbekistan",
+    "dialCode": "+998",
+    "code": "UZ",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/uz.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "UZT",
+        "name": "Uzbekistan Time",
+        "utcOffset": 5,
+        "_id": "6500b91a96c492a0fd5685cf"
+      }
+    ],
+    "language": "Uzbek",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Port Vila",
+      "coordinates": [
+        -17.73333333,
+        168.316667
+      ]
+    },
+    "currency": {
+      "code": "VUV",
+      "name": "Vanuatu vatu",
+      "symbol": "Vt",
+      "exchangeRate": 151.0370532414043
+    },
+    "_id": "6500b91a96c492a0fd5685d0",
+    "value": "vanuatu",
+    "label": "Vanuatu",
+    "dialCode": "+678",
+    "code": "VU",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/vu.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "VUT",
+        "name": "Vanuatu Time",
+        "utcOffset": 11,
+        "_id": "6500b91a96c492a0fd5685d1"
+      }
+    ],
+    "language": "Bislama",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Vatican City",
+      "coordinates": [
+        41.9,
+        12.45
+      ]
+    },
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "exchangeRate": 1.1605249750777262
+    },
+    "_id": "6500b91a96c492a0fd5685d2",
+    "value": "vatican-city",
+    "label": "Vatican City",
+    "dialCode": "+379",
+    "code": "VA",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/va.png",
+    "continent": "Europe",
+    "timeZones": [
+      {
+        "code": "CET",
+        "name": "Central European Time",
+        "utcOffset": 1,
+        "_id": "6500b91a96c492a0fd5685d3"
+      }
+    ],
+    "language": "Latin",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Caracas",
+      "coordinates": [
+        10.5,
+        -66.916667
+      ]
+    },
+    "currency": {
+      "code": "VEF",
+      "name": "Venezuelan bolívar",
+      "symbol": "Bs F",
+      "exchangeRate": 4158097.578533306
+    },
+    "_id": "6500b91a96c492a0fd5685d4",
+    "value": "venezuela",
+    "label": "Venezuela",
+    "dialCode": "+58",
+    "code": "VE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ve.png",
+    "continent": "South America",
+    "timeZones": [
+      {
+        "code": "VET",
+        "name": "Venezuelan Standard Time",
+        "utcOffset": -4,
+        "_id": "6500b91a96c492a0fd5685d5"
+      }
+    ],
+    "language": "Spanish",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Hanoi",
+      "coordinates": [
+        21.03333333,
+        105.85
+      ]
+    },
+    "currency": {
+      "code": "VND",
+      "name": "Vietnamese đồng",
+      "symbol": "₫",
+      "exchangeRate": 30225.200144137205
+    },
+    "_id": "6500b91a96c492a0fd5685d6",
+    "value": "vietnam",
+    "label": "Vietnam",
+    "dialCode": "+84",
+    "code": "VN",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/vn.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "ICT",
+        "name": "Indochina Time",
+        "utcOffset": 7,
+        "_id": "6500b91a96c492a0fd5685d7"
+      }
+    ],
+    "language": "Vietnamese",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Mata-Utu",
+      "coordinates": [
+        -13.95,
+        -171.933333
+      ]
+    },
+    "currency": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr",
+      "exchangeRate": 139.1028596495911
+    },
+    "_id": "6500b91a96c492a0fd5685d8",
+    "value": "wallis-futuna",
+    "label": "Wallis & Futuna",
+    "dialCode": "+681",
+    "code": "WF",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/wf.png",
+    "continent": "Oceania",
+    "timeZones": [
+      {
+        "code": "WFT",
+        "name": "Wallis & Futuna Time",
+        "utcOffset": 12,
+        "_id": "6500b91a96c492a0fd5685d9"
+      }
+    ],
+    "language": "French",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "El Aaiún",
+      "coordinates": [
+        27.153611,
+        -13.203333
+      ]
+    },
+    "currency": {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م.",
+      "exchangeRate": 12.719126263956765
+    },
+    "_id": "6500b91a96c492a0fd5685da",
+    "value": "western-sahara",
+    "label": "Western Sahara",
+    "dialCode": "+212",
+    "code": "EH",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/eh.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "WET",
+        "name": "Western European Time",
+        "utcOffset": 0,
+        "_id": "6500b91a96c492a0fd5685db"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Sana'a",
+      "coordinates": [
+        15.35,
+        44.2
+      ]
+    },
+    "currency": {
+      "code": "YER",
+      "name": "Yemeni rial",
+      "symbol": "﷼",
+      "exchangeRate": 310.33971003122974
+    },
+    "_id": "6500b91a96c492a0fd5685dc",
+    "value": "yemen",
+    "label": "Yemen",
+    "dialCode": "+967",
+    "code": "YE",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/ye.png",
+    "continent": "Asia",
+    "timeZones": [
+      {
+        "code": "AST",
+        "name": "Arabia Standard Time",
+        "utcOffset": 3,
+        "_id": "6500b91a96c492a0fd5685dd"
+      }
+    ],
+    "language": "Arabic",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Lusaka",
+      "coordinates": [
+        -15.41666666,
+        28.283333
+      ]
+    },
+    "currency": {
+      "code": "ZMW",
+      "name": "Zambian kwacha",
+      "symbol": "ZK",
+      "exchangeRate": 25.566488216609667
+    },
+    "_id": "6500b91a96c492a0fd5685de",
+    "value": "zambia",
+    "label": "Zambia",
+    "dialCode": "+260",
+    "code": "ZM",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/zm.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5685df"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  },
+  {
+    "capitol": {
+      "name": "Harare",
+      "coordinates": [
+        -17.81666666,
+        31.033333
+      ]
+    },
+    "currency": {
+      "code": "ZWL",
+      "name": "Zimbabwean dollar",
+      "symbol": "$",
+      "exchangeRate": 399.11839675795744
+    },
+    "_id": "6500b91a96c492a0fd5685e0",
+    "value": "zimbabwe",
+    "label": "Zimbabwe",
+    "dialCode": "+263",
+    "code": "ZW",
+    "flagIcon": "https://project-9-bucket.s3.eu-west-1.amazonaws.com/flags/zw.png",
+    "continent": "Africa",
+    "timeZones": [
+      {
+        "code": "CAT",
+        "name": "Central Africa Time",
+        "utcOffset": 2,
+        "_id": "6500b91a96c492a0fd5685e1"
+      }
+    ],
+    "language": "English",
+    "__v": 0
+  }
+]
